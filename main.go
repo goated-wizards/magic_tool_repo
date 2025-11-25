@@ -15,7 +15,8 @@ func main() {
 	player1 := new(types.Player)
 
 	//
-	player1.Cards = ReadCardList("joao.csv")
+	// player1.Cards = ReadCardList("joao.csv")
+	player1.Cards = ReadCardList("ricardo.csv")
 	collection := player1.GenerateCollection()
 	results := batcher.DivideCollection(collection)
 
@@ -25,7 +26,8 @@ func main() {
 
 	// another one
 	player2 := new(types.Player)
-	player2.Cards = ReadArchidektCardList("duque.csv")
+	player2.Cards = ReadCardList("duqueafter.csv")
+	// player2.Cards = ReadArchidektCardList("duque.csv")
 	collection2 := player2.GenerateCollection()
 	results2 := batcher.DivideCollection(collection2)
 
@@ -54,8 +56,8 @@ func main() {
 
 	// checkGoods(goods)
 
-	WriteCardList("./output/duque_gives_joao.csv", goods.BtoA)
-	WriteCardList("./output/joao_gives_duque.csv", goods.AtoB)
+	WriteCardList("./output/duque_gives_joao.csv", goods.BtoA, true)
+	WriteCardList("./output/joao_gives_duque.csv", goods.AtoB, true)
 
 	for _, card := range goods.AtoB {
 		player1.RemoveCard(card)
@@ -67,8 +69,8 @@ func main() {
 
 	}
 
-	WriteCardList("./output/totalList/duque.csv", player2.Cards)
-	WriteCardList("./output/totalList/joao.csv", player1.Cards)
+	WriteCardList("./output/totalList/duque.csv", player2.Cards, false)
+	WriteCardList("./output/totalList/joao.csv", player1.Cards, false)
 }
 
 func checkGoods(goods types.TransactionRecord) {
@@ -92,7 +94,7 @@ func ReadArchidektCardList(listPath string) []types.Card {
 	return csvHandler.ArchidektReadCSV(listPath)
 }
 
-func WriteCardList(listPath string, cards []types.Card) {
+func WriteCardList(listPath string, cards []types.Card, withPrice bool) {
 
-	csvHandler.WriteCSV(listPath, cards)
+	csvHandler.WriteCSV(listPath, cards, true)
 }

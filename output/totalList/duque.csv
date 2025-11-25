@@ -1,309 +1,303 @@
-inventory,name,set,setnumber,foil
-1,Aang's Journey,TLA,1,
-1,Energybending,TLA,2,
-2,Zuko's Exile,TLA,3,
-1,"Aang, the Last Airbender",TLA,4,
-1,Airbender Ascension,TLA,6,
-1,Airbender's Reversal,TLA,7,
-2,Airbending Lesson,TLA,8,*F*
-1,"Appa, Loyal Sky Bison",TLA,9,*F*
-1,"Appa, Loyal Sky Bison",TLA,9,
-1,"Appa, Steadfast Guardian",TLA,10,
-1,Avatar Enthusiasts,TLA,11,
-1,Avatar's Wrath,TLA,12,
-1,Compassionate Healer,TLA,13,*F*
-1,Compassionate Healer,TLA,13,
-1,Compassionate Healer,TLA,13,
-1,Curious Farm Animals,TLA,14,
-1,Destined Confrontation,TLA,15,
-1,Earth Kingdom Jailer,TLA,16,
-1,Earth Kingdom Protectors,TLA,17,*F*
-1,Earth Kingdom Protectors,TLA,17,
-1,Enter the Avatar State,TLA,18,
-2,Fancy Footwork,TLA,19,
-1,Gather the White Lotus,TLA,20,
-1,Gather the White Lotus,TLA,20,
-1,Gather the White Lotus,TLA,20,
-2,Glider Kids,TLA,21,
-1,Glider Staff,TLA,22,
-1,,TLA,23,
-1,Jeong Jeong's Deserters,TLA,25,
-3,Kyoshi Warriors,TLA,26,
-1,Master Piandao,TLA,28,
-1,"Momo, Friendly Flier",TLA,29,
-1,"Momo, Playful Pet",TLA,30,
-2,Path to Redemption,TLA,31,
-3,Rabaroo Troop,TLA,32,
-1,Razor Rings,TLA,33,
-1,Sandbenders' Storm,TLA,34,*F*
-1,South Pole Voyager,TLA,35,
-1,Southern Air Temple,TLA,36,
-2,"Suki, Courageous Rescuer",TLA,37,
-1,Vengeful Villagers,TLA,40,
-1,Water Tribe Rallier,TLA,42,*F*
-1,Water Tribe Rallier,TLA,42,
-1,Water Tribe Rallier,TLA,42,
-1,Yip Yip!,TLA,43,
-2,Accumulate Wisdom,TLA,44,
-1,Benevolent River Spirit,TLA,45,
-1,Boomerang Basics,TLA,46,
-1,Crashing Wave,TLA,47,
-3,Ember Island Production,TLA,48,
-1,First-Time Flyer,TLA,49,
-2,Flexible Waterbender,TLA,50,
-1,Forecasting Fortune Teller,TLA,51,
-2,Geyser Leaper,TLA,52,
-1,Giant Koi,TLA,53,
-1,Gran-Gran,TLA,54,
-2,Honest Work,TLA,55,
-3,Iguana Parrot,TLA,56,
-1,Invasion Submersible,TLA,57,
-1,It'll Quench Ya!,TLA,58,
-1,"Katara, Bending Prodigy",TLA,59,
-1,Knowledge Seeker,TLA,60,
-1,Lost Days,TLA,62,
-1,Master Pakku,TLA,63,
-1,North Pole Patrol,TLA,65,
-2,Octopus Form,TLA,66,
-2,Otter-Penguin,TLA,67,
-2,Rowdy Snowballers,TLA,68,
-3,Serpent of the Pass,TLA,70,
-1,Sokka's Haiku,TLA,71,
-1,The Spirit Oasis,TLA,72,
-1,"Teo, Spirited Glider",TLA,74,
-1,"Ty Lee, Chi Blocker",TLA,76,
-2,Waterbending Lesson,TLA,80,
-1,Waterbending Scroll,TLA,81,
-1,Watery Grasp,TLA,82,*F*
-1,Watery Grasp,TLA,82,
-1,"Yue, the Moon Spirit",TLA,83,
-1,Azula Always Lies,TLA,84,
-1,"Azula, On the Hunt",TLA,85,
-1,Beetle-Headed Merchants,TLA,86,
-1,Boiling Rock Rioter,TLA,87,
-2,Buzzard-Wasp Colony,TLA,88,
-2,Callous Inspector,TLA,89,
-1,Canyon Crawler,TLA,90,
-1,Cat-Gator,TLA,91,
-1,Dai Li Indoctrination,TLA,93,
-1,Day of Black Sun,TLA,94,
-1,Deadly Precision,TLA,95,
-1,Fatal Fissure,TLA,97,
-2,Fire Nation Engineer,TLA,99,
-1,Fire Navy Trebuchet,TLA,100,
-3,Foggy Swamp Hunters,TLA,101,
-2,Heartless Act,TLA,103,
-2,"Joo Dee, One of Many",TLA,105,
-1,"June, Bounty Hunter",TLA,106,
-1,"Koh, the Face Stealer",TLA,107,
-2,"Lo and Li, Twin Tutors",TLA,108,
-1,"Mai, Scornful Striker",TLA,109,
-1,Merchant of Many Hats,TLA,110,
-1,Northern Air Temple,TLA,111,
-1,Ozai's Cruelty,TLA,113,
-1,Pirate Peddlers,TLA,115,
-1,The Rise of Sozin // Fire Lord Sozin,TLA,117,
-2,Ruinous Waterbending,TLA,118,
-2,Sold Out,TLA,119,
-1,Swampsnare Trap,TLA,120,
-1,Tundra Tank,TLA,121,
-1,Wolfbat,TLA,122,
-1,Zuko's Conviction,TLA,123,
-2,Boar-q-pine,TLA,124,
-2,Bumi Bash,TLA,125,
-2,Combustion Man,TLA,127,
-1,Combustion Technique,TLA,128,
-1,Crescent Island Temple,TLA,129,
-1,Cunning Maneuver,TLA,130,
-1,Deserter's Disciple,TLA,131,
-1,Fated Firepower,TLA,132,
-1,Fire Nation Attacks,TLA,133,
-1,Fire Nation Cadets,TLA,134,
-6,Fire Nation Raider,TLA,135,
-1,Fire Sages,TLA,136,*F*
-1,Fire Sages,TLA,136,
-2,Firebending Lesson,TLA,138,
-6,Firebending Student,TLA,139,
-1,How to Start a Riot,TLA,140,
-1,Iroh's Demonstration,TLA,141,
-1,Jet's Brainwashing,TLA,143,
-1,The Legend of Roku // Avatar Roku,TLA,145,
-1,Lightning Strike,TLA,146,
-2,Mongoose Lizard,TLA,148,
-1,Price of Freedom,TLA,149,
-1,Ran and Shaw,TLA,150,
-1,Rough Rhino Cavalry,TLA,152,
-2,Solstice Revelations,TLA,153,
-1,Tiger-Dillo,TLA,155,
-1,Treetop Freedom Fighters,TLA,156,
-2,Twin Blades,TLA,157,
-2,"Ty Lee, Artful Acrobat",TLA,158,
-1,War Balloon,TLA,159,
-1,Wartime Protestors,TLA,160,
-1,Yuyan Archers,TLA,161,
-1,"Zhao, the Moon Slayer",TLA,162,
-1,"Zuko, Exiled Prince",TLA,163,
-1,Allies at Last,TLA,164,
-1,Badgermole,TLA,166,
-2,"The Boulder, Ready to Rumble",TLA,168,
-1,"Bumi, King of Three Trials",TLA,169,
-1,Diligent Zookeeper,TLA,171,
-2,Earth Kingdom General,TLA,173,
-1,Earth Rumble,TLA,174,
-2,Earthbending Lesson,TLA,176,
-1,Earthen Ally,TLA,177,
-1,"Flopsie, Bumi's Buddy",TLA,179,
-1,Foggy Swamp Vinebender,TLA,180,
-2,"Haru, Hidden Talent",TLA,182,
-1,Invasion Tactics,TLA,183,
-1,Kyoshi Island Plaza,TLA,184,
-1,Leaves from the Vine,TLA,185,
-1,Origin of Metalbending,TLA,187,
-2,Ostrich-Horse,TLA,188,
-1,Raucous Audience,TLA,190,
-2,Rebellious Captives,TLA,191,
-1,Rockalanche,TLA,192,
-2,Rocky Rebuke,TLA,193,
-1,Saber-Tooth Moose-Lion,TLA,194,
-2,Seismic Sense,TLA,195,
-1,Shared Roots,TLA,196,
-1,Sparring Dummy,TLA,197,
-2,"Toph, the Blind Bandit",TLA,198,
-1,True Ancestry,TLA,199,
-2,Turtle-Duck,TLA,200,
-1,Unlucky Cabbage Merchant,TLA,201,
-1,Walltop Sentries,TLA,202,
-1,Abandon Attachments,TLA,205,*F*
-1,Air Nomad Legacy,TLA,206,
-1,Beifong's Bounty Hunters,TLA,209,
-2,Bitter Work,TLA,210,
-1,"Bumi, Unleashed",TLA,211,
-1,Cat-Owl,TLA,212,*F*
-1,Cruel Administrator,TLA,213,
-1,Dai Li Agents,TLA,214,
-1,Dragonfly Swarm,TLA,215,
-1,Earth Kingdom Soldier,TLA,216,
-1,Earth King's Lieutenant,TLA,217,
-2,Earth Rumble Wrestlers,TLA,218,
-1,Earth Village Ruffians,TLA,219,
-1,Fire Lord Azula,TLA,220,*F*
-1,Fire Lord Azula,TLA,220,
-1,Foggy Swamp Spirit Keeper,TLA,222,
-1,Guru Pathik,TLA,223,
-1,"Hama, the Bloodbender",TLA,224,
-1,"Hei Bai, Spirit of Balance",TLA,225,
-1,Hermitic Herbalist,TLA,226,
-1,"Iroh, Grand Lotus",TLA,227,
-1,"Iroh, Tea Master",TLA,228,
-2,"Jet, Freedom Fighter",TLA,229,
-3,"Long Feng, Grand Secretariat",TLA,233,
-1,Messenger Hawk,TLA,234,
-1,Platypus-Bear,TLA,236,
-2,Pretending Poxbearers,TLA,237,
-1,"Professor Zei, Anthropologist",TLA,238,
-1,Sandbender Scavengers,TLA,239,
-1,"Sokka, Bold Boomeranger",TLA,240,
-2,"Suki, Kyoshi Warrior",TLA,243,
-2,Sun Warriors,TLA,244,
-1,,TLA,245,*F*
-1,,TLA,245,
-1,,TLA,247,
-1,,TLA,248,
-2,Vindictive Warden,TLA,249,
-1,Wandering Musicians,TLA,250,
-1,,TLA,251,
-1,,TLA,252,
-1,Barrels of Blasting Jelly,TLA,254,
-1,Bender's Waterskin,TLA,255,
-1,Fire Nation Warship,TLA,256,
-1,Kyoshi Battle Fan,TLA,257,
-1,Meteor Sword,TLA,258,
-1,Planetarium of Wan Shi Tong,TLA,259,
-1,Trusty Boomerang,TLA,260,
-1,Agna Qel'a,TLA,264,
-1,Ba Sing Se,TLA,266,
-1,Boiling Rock Prison,TLA,267,
-1,Fire Nation Palace,TLA,268,
-1,Misty Palms Oasis,TLA,273,
-1,North Pole Gates,TLA,274,
-1,Omashu City,TLA,275,
-1,Realm of Koh,TLA,276,
-1,Rumble Arena,TLA,277,
-1,Secret Tunnel,TLA,278,
-1,Serpent's Pass,TLA,279,
-1,White Lotus Hideout,TLA,281,
-1,,TLA,299,
-1,,TLA,301,
-1,,TLA,302,
-1,"Azula, Cunning Usurper",TLA,303,
-1,"Aang, at the Crossroads // Aang, Destined Savior",TLA,304,
-1,"Katara, the Fearless",TLA,305,
-1,,TLA,306,
-1,Earthbender Ascension,TLA,307,*F*
-1,Earthbender Ascension,TLA,307,
-1,"Avatar Aang // Aang, Master of Elements",TLA,308,
-1,Sozin's Comet,TLA,309,
-1,Waterbender Ascension,TLA,310,
-1,"Ozai, the Phoenix King",TLA,311,
-1,Firebender Ascension,TLA,312,
-1,,TLA,313,
-1,Fire Lord Zuko,TLA,315,
-1,Tiger-Seal,TLA,318,
-1,The Unagi of Kyoshi Island,TLA,319,
-1,The Fire Nation Drill,TLA,321,*F*
-1,The Fire Nation Drill,TLA,321,
-1,Raven Eagle,TLA,324,
-1,Avatar Destiny,TLA,333,
-1,Aang's Iceberg,TLA,336,
-1,Foggy Swamp Visions,TLA,339,
-1,Obsessive Pursuit,TLA,340,
-1,,TLA,342,
-1,Great Divide Guide,TLA,345,
-1,"Aang, Swift Savior // Aang and La, Ocean's Fury",TLA,347,
-1,"Katara, Water Tribe's Hope",TLA,351,
-1,"Sokka, Tenacious Tactician",TLA,352,
-1,The Legend of Yangchen // Avatar Yangchen,TLA,354,
-1,The Legend of Kuruk // Avatar Kuruk,TLA,355,
-1,,TLA,356,
-1,The Legend of Kyoshi // Avatar Kyoshi,TLA,358,
-1,"The Mechanist, Aerial Artisan",TLA,369,
-1,Spirit Water Revival,TLA,370,
-1,,TLA,382,
-1,,TLA,393,*F*
-1,"Appa, the Vigilant",TLE,62,
-1,Katara's Reversal,TLE,63,
-1,Fire Nation Turret,TLE,64,
-1,Swampbenders,TLE,65,
-1,Sokka's Charge,TLE,66,
-1,Earthshape,TLE,67,
-1,Mai and Zuko,TLE,68,
-1,Aang and Katara,TLE,69,
-1,"Toph, Greatest Earthbender",TLE,70,
-1,Sokka and Suki,TLE,71,
-1,Momo's Heist,TLE,72,
-1,Uncle's Musings,TLE,73,
-1,"Aang, Airbending Master",TLE,74,
-1,"The Duke, Rebel Sentry",TLE,76,
-1,Baboon Spirit,TLE,89,
-1,The Blue Spirit,TLE,90,
-1,Chakra Meditation,TLE,91,
-1,"Katara, Waterbending Master",TLE,93,
-1,Nightmares and Daydreams,TLE,94,
-1,Princess Yue,TLE,95,
-1,"Tui and La, Moon and Ocean",TLE,96,
-1,"Azula, Ruthless Firebender",TLE,101,
-1,Fire Nation Occupation,TLE,105,
-1,"Avatar Roku, Firebender",TLE,112,
-1,"Fang, Roku's Companion",TLE,115,
-1,"Longshot, Rebel Bowman",TLE,120,
-1,"Moku, Meandering Drummer",TLE,122,
-1,Overwhelming Victory,TLE,123,
-1,"Zuko, Firebending Master",TLE,127,
-1,"Avatar Kyoshi, Earthbender",TLE,130,
-1,Tale of Katara and Toph,TLE,143,
-1,"Toph, Earthbending Master",TLE,145,
-1,"Katara, Seeking Revenge",TLE,148,
-1,"Zuko, Seeking Honor",TLE,150,
-1,"Aang, Air Nomad",TLE,210,
-1,Lion Vulture,TLE,232,
-1,Earthbending Student,TLE,249,*F*
+inventory,name,set,setnumber,foil,price
+1,Aang's Journey,TLA,1,,0.09
+1,Energybending,TLA,2,,0.02
+2,Zuko's Exile,TLA,3,,0.09
+1,"Aang, the Last Airbender",TLA,4,,0.10
+1,Airbender Ascension,TLA,6,,0.48
+1,Airbender's Reversal,TLA,7,,0.18
+1,Airbending Lesson,TLA,8,*F*,0.07
+1,Airbending Lesson,TLA,8,,0.07
+1,"Appa, Loyal Sky Bison",TLA,9,*F*,0.13
+1,"Appa, Loyal Sky Bison",TLA,9,,0.13
+1,"Appa, Steadfast Guardian",TLA,10,,13.19
+1,Avatar Enthusiasts,TLA,11,,0.10
+1,Avatar's Wrath,TLA,12,,1.32
+1,Compassionate Healer,TLA,13,*F*,0.08
+1,Compassionate Healer,TLA,13,,0.08
+1,Compassionate Healer,TLA,13,,0.08
+1,Curious Farm Animals,TLA,14,,0.08
+1,Destined Confrontation,TLA,15,,0.17
+1,Earth Kingdom Jailer,TLA,16,,0.13
+1,Earth Kingdom Protectors,TLA,17,*F*,0.17
+1,Earth Kingdom Protectors,TLA,17,,0.17
+1,Enter the Avatar State,TLA,18,,0.17
+1,Fancy Footwork,TLA,19,,0.06
+1,Gather the White Lotus,TLA,20,,0.11
+1,Gather the White Lotus,TLA,20,,0.11
+1,Gather the White Lotus,TLA,20,,0.11
+2,Glider Kids,TLA,21,,0.08
+1,Glider Staff,TLA,22,,0.13
+1,"Hakoda, Selfless Commander",TLA,23,,0.02
+1,Jeong Jeong's Deserters,TLA,25,,0.07
+3,Kyoshi Warriors,TLA,26,,0.04
+1,Master Piandao,TLA,28,,0.13
+1,"Momo, Friendly Flier",TLA,29,,0.17
+1,"Momo, Playful Pet",TLA,30,,0.12
+1,Path to Redemption,TLA,31,,0.06
+2,Rabaroo Troop,TLA,32,,0.05
+1,Razor Rings,TLA,33,,0.03
+1,Sandbenders' Storm,TLA,34,*F*,0.09
+1,South Pole Voyager,TLA,35,,0.02
+1,Southern Air Temple,TLA,36,,0.25
+1,"Suki, Courageous Rescuer",TLA,37,,0.07
+1,Vengeful Villagers,TLA,40,,0.07
+1,Water Tribe Rallier,TLA,42,*F*,0.10
+1,Water Tribe Rallier,TLA,42,,0.10
+1,Water Tribe Rallier,TLA,42,,0.10
+1,Yip Yip!,TLA,43,,0.07
+1,Accumulate Wisdom,TLA,44,,0.41
+1,Benevolent River Spirit,TLA,45,,0.14
+1,Boomerang Basics,TLA,46,,0.28
+1,Crashing Wave,TLA,47,,0.16
+2,Ember Island Production,TLA,48,,0.14
+1,First-Time Flyer,TLA,49,,0.05
+2,Flexible Waterbender,TLA,50,,0.04
+1,Forecasting Fortune Teller,TLA,51,,0.07
+1,Geyser Leaper,TLA,52,,0.02
+1,Giant Koi,TLA,53,,0.07
+1,Gran-Gran,TLA,54,,0.13
+1,Honest Work,TLA,55,,0.08
+3,Iguana Parrot,TLA,56,,0.03
+1,Invasion Submersible,TLA,57,,0.08
+1,It'll Quench Ya!,TLA,58,,0.08
+1,"Katara, Bending Prodigy",TLA,59,,0.11
+1,Knowledge Seeker,TLA,60,,0.09
+1,Lost Days,TLA,62,,0.05
+1,Master Pakku,TLA,63,,0.05
+1,North Pole Patrol,TLA,65,,0.12
+2,Octopus Form,TLA,66,,0.10
+2,Otter-Penguin,TLA,67,,0.06
+1,Rowdy Snowballers,TLA,68,,0.05
+2,Serpent of the Pass,TLA,70,,0.14
+1,Sokka's Haiku,TLA,71,,0.02
+1,The Spirit Oasis,TLA,72,,0.04
+1,"Teo, Spirited Glider",TLA,74,,0.07
+1,"Ty Lee, Chi Blocker",TLA,76,,0.02
+1,Waterbending Lesson,TLA,80,,0.10
+1,Waterbending Scroll,TLA,81,,0.14
+1,Watery Grasp,TLA,82,*F*,0.06
+1,Watery Grasp,TLA,82,,0.06
+1,"Yue, the Moon Spirit",TLA,83,,0.02
+1,Azula Always Lies,TLA,84,,0.09
+1,"Azula, On the Hunt",TLA,85,,0.11
+1,Beetle-Headed Merchants,TLA,86,,0.07
+1,Boiling Rock Rioter,TLA,87,,0.09
+2,Buzzard-Wasp Colony,TLA,88,,0.07
+1,Callous Inspector,TLA,89,,0.08
+1,Canyon Crawler,TLA,90,,0.09
+1,Cat-Gator,TLA,91,,0.10
+1,Dai Li Indoctrination,TLA,93,,0.05
+1,Day of Black Sun,TLA,94,,0.02
+1,Deadly Precision,TLA,95,,0.07
+1,Fatal Fissure,TLA,97,,0.04
+1,Fire Nation Engineer,TLA,99,,0.08
+1,Fire Navy Trebuchet,TLA,100,,0.10
+2,Foggy Swamp Hunters,TLA,101,,0.06
+1,Heartless Act,TLA,103,,0.14
+1,"Joo Dee, One of Many",TLA,105,,0.17
+1,"June, Bounty Hunter",TLA,106,,0.10
+1,"Koh, the Face Stealer",TLA,107,,2.50
+1,"Lo and Li, Twin Tutors",TLA,108,,0.07
+1,"Mai, Scornful Striker",TLA,109,,2.40
+1,Merchant of Many Hats,TLA,110,,0.08
+1,Northern Air Temple,TLA,111,,0.02
+1,Ozai's Cruelty,TLA,113,,0.08
+1,Pirate Peddlers,TLA,115,,0.04
+1,The Rise of Sozin // Fire Lord Sozin,TLA,117,,0.02
+1,Ruinous Waterbending,TLA,118,,0.10
+1,Sold Out,TLA,119,,0.09
+1,Swampsnare Trap,TLA,120,,0.06
+1,Tundra Tank,TLA,121,,0.11
+1,Wolfbat,TLA,122,,0.10
+1,Zuko's Conviction,TLA,123,,0.09
+1,Boar-q-pine,TLA,124,,0.04
+1,Bumi Bash,TLA,125,,0.08
+1,Combustion Man,TLA,127,,0.11
+1,Combustion Technique,TLA,128,,0.13
+1,Crescent Island Temple,TLA,129,,0.02
+1,Cunning Maneuver,TLA,130,,0.08
+1,Deserter's Disciple,TLA,131,,0.07
+1,Fated Firepower,TLA,132,,3.77
+1,Fire Nation Attacks,TLA,133,,0.11
+1,Fire Nation Cadets,TLA,134,,0.08
+5,Fire Nation Raider,TLA,135,,0.05
+1,Fire Sages,TLA,136,*F*,0.12
+1,Fire Sages,TLA,136,,0.12
+2,Firebending Lesson,TLA,138,,0.08
+5,Firebending Student,TLA,139,,1.25
+1,How to Start a Riot,TLA,140,,0.06
+1,Iroh's Demonstration,TLA,141,,0.14
+1,Jet's Brainwashing,TLA,143,,0.11
+1,The Legend of Roku // Avatar Roku,TLA,145,,4.51
+1,Lightning Strike,TLA,146,,0.10
+2,Mongoose Lizard,TLA,148,,0.02
+1,Price of Freedom,TLA,149,,0.16
+1,Ran and Shaw,TLA,150,,0.03
+1,Rough Rhino Cavalry,TLA,152,,0.06
+1,Solstice Revelations,TLA,153,,0.02
+1,Tiger-Dillo,TLA,155,,0.08
+1,Treetop Freedom Fighters,TLA,156,,0.05
+1,Twin Blades,TLA,157,,0.07
+1,"Ty Lee, Artful Acrobat",TLA,158,,0.11
+1,War Balloon,TLA,159,,0.07
+1,Wartime Protestors,TLA,160,,0.02
+1,Yuyan Archers,TLA,161,,0.07
+1,"Zhao, the Moon Slayer",TLA,162,,0.69
+1,"Zuko, Exiled Prince",TLA,163,,0.10
+1,Allies at Last,TLA,164,,0.13
+1,Badgermole,TLA,166,,0.13
+2,"The Boulder, Ready to Rumble",TLA,168,,0.12
+1,"Bumi, King of Three Trials",TLA,169,,0.09
+1,Diligent Zookeeper,TLA,171,,0.02
+1,Earth Kingdom General,TLA,173,,0.09
+1,Earth Rumble,TLA,174,,0.09
+1,Earthbending Lesson,TLA,176,,0.09
+1,Earthen Ally,TLA,177,,0.02
+1,"Flopsie, Bumi's Buddy",TLA,179,,0.14
+1,Foggy Swamp Vinebender,TLA,180,,0.05
+2,"Haru, Hidden Talent",TLA,182,,0.11
+1,Invasion Tactics,TLA,183,,0.09
+1,Kyoshi Island Plaza,TLA,184,,0.11
+1,Leaves from the Vine,TLA,185,,0.14
+1,Origin of Metalbending,TLA,187,,0.11
+1,Ostrich-Horse,TLA,188,,0.07
+1,Raucous Audience,TLA,190,,0.06
+2,Rebellious Captives,TLA,191,,0.06
+1,Rockalanche,TLA,192,,0.12
+1,Rocky Rebuke,TLA,193,,0.07
+1,Saber-Tooth Moose-Lion,TLA,194,,0.04
+1,Seismic Sense,TLA,195,,0.02
+1,Shared Roots,TLA,196,,0.76
+1,Sparring Dummy,TLA,197,,0.10
+1,"Toph, the Blind Bandit",TLA,198,,0.11
+1,True Ancestry,TLA,199,,0.07
+2,Turtle-Duck,TLA,200,,0.06
+1,Unlucky Cabbage Merchant,TLA,201,,0.08
+1,Walltop Sentries,TLA,202,,0.09
+1,Abandon Attachments,TLA,205,*F*,0.07
+1,Air Nomad Legacy,TLA,206,,0.17
+1,Beifong's Bounty Hunters,TLA,209,,0.02
+1,Bitter Work,TLA,210,,0.08
+1,"Bumi, Unleashed",TLA,211,,0.77
+1,Cat-Owl,TLA,212,*F*,0.07
+1,Cruel Administrator,TLA,213,,0.08
+1,Dai Li Agents,TLA,214,,0.10
+1,Dragonfly Swarm,TLA,215,,0.17
+1,Earth Kingdom Soldier,TLA,216,,0.07
+1,Earth King's Lieutenant,TLA,217,,0.10
+1,Earth Rumble Wrestlers,TLA,218,,0.09
+1,Earth Village Ruffians,TLA,219,,0.05
+1,Fire Lord Azula,TLA,220,*F*,0.36
+1,Fire Lord Azula,TLA,220,,0.36
+1,Foggy Swamp Spirit Keeper,TLA,222,,0.07
+1,Guru Pathik,TLA,223,,0.14
+1,"Hama, the Bloodbender",TLA,224,,0.11
+1,"Hei Bai, Spirit of Balance",TLA,225,,0.05
+1,Hermitic Herbalist,TLA,226,,0.13
+1,"Iroh, Grand Lotus",TLA,227,,0.02
+1,"Iroh, Tea Master",TLA,228,,0.04
+1,"Jet, Freedom Fighter",TLA,229,,0.11
+2,"Long Feng, Grand Secretariat",TLA,233,,0.12
+1,Messenger Hawk,TLA,234,,0.08
+1,Platypus-Bear,TLA,236,,0.06
+2,Pretending Poxbearers,TLA,237,,0.14
+1,"Professor Zei, Anthropologist",TLA,238,,0.07
+1,Sandbender Scavengers,TLA,239,,0.02
+1,"Sokka, Bold Boomeranger",TLA,240,,0.02
+1,"Suki, Kyoshi Warrior",TLA,243,,0.14
+1,Sun Warriors,TLA,244,,0.13
+1,Tolls of War,TLA,245,*F*,0.04
+1,Tolls of War,TLA,245,,0.04
+1,"Toph, the First Metalbender",TLA,247,,0.87
+1,Uncle Iroh,TLA,248,,0.12
+2,Vindictive Warden,TLA,249,,0.08
+1,Wandering Musicians,TLA,250,,0.08
+1,White Lotus Reinforcements,TLA,251,,0.15
+1,"Zhao, Ruthless Admiral",TLA,252,,0.12
+1,Barrels of Blasting Jelly,TLA,254,,0.08
+1,Bender's Waterskin,TLA,255,,0.02
+1,Fire Nation Warship,TLA,256,,0.06
+1,Kyoshi Battle Fan,TLA,257,,0.06
+1,Meteor Sword,TLA,258,,0.08
+1,Planetarium of Wan Shi Tong,TLA,259,,1.86
+1,Trusty Boomerang,TLA,260,,0.11
+1,Agna Qel'a,TLA,264,,0.02
+1,Ba Sing Se,TLA,266,,0.70
+1,Boiling Rock Prison,TLA,267,,0.09
+1,Fire Nation Palace,TLA,268,,0.56
+1,Misty Palms Oasis,TLA,273,,0.07
+1,North Pole Gates,TLA,274,,0.11
+1,Omashu City,TLA,275,,0.09
+1,Realm of Koh,TLA,276,,0.02
+1,Rumble Arena,TLA,277,,0.12
+1,Secret Tunnel,TLA,278,,0.02
+1,Serpent's Pass,TLA,279,,0.10
+1,White Lotus Hideout,TLA,281,,0.02
+1,Fire Nation Attacks,TLA,299,,0.14
+1,Combustion Technique,TLA,301,,0.20
+1,"Zuko, Conflicted",TLA,302,,0.87
+1,"Azula, Cunning Usurper",TLA,303,,1.41
+1,"Aang, at the Crossroads // Aang, Destined Savior",TLA,304,,4.05
+1,"Katara, the Fearless",TLA,305,,2.92
+1,Dai Li Agents,TLA,306,,0.09
+1,Earthbender Ascension,TLA,307,*F*,1.99
+1,Earthbender Ascension,TLA,307,,1.99
+1,"Avatar Aang // Aang, Master of Elements",TLA,308,,13.94
+1,Sozin's Comet,TLA,309,,9.97
+1,Waterbender Ascension,TLA,310,,2.00
+1,"Ozai, the Phoenix King",TLA,311,,18.96
+1,Firebender Ascension,TLA,312,,1.62
+1,Fire Lord Azula,TLA,313,,12.94
+1,Fire Lord Zuko,TLA,315,,2.10
+1,Tiger-Seal,TLA,318,,0.97
+1,The Unagi of Kyoshi Island,TLA,319,,4.64
+1,The Fire Nation Drill,TLA,321,*F*,0.50
+1,The Fire Nation Drill,TLA,321,,0.50
+1,Raven Eagle,TLA,324,,1.19
+1,Avatar Destiny,TLA,333,,1.17
+1,Aang's Iceberg,TLA,336,,0.95
+1,,TLA,339,,0.00
+1,,TLA,340,,0.00
+1,,TLA,342,,0.00
+1,,TLA,345,,0.00
+1,,TLA,347,,0.00
+1,,TLA,351,,0.00
+1,,TLA,352,,0.00
+1,,TLA,354,,0.00
+1,,TLA,355,,0.00
+1,,TLA,356,,0.00
+1,,TLA,358,,0.00
+1,,TLA,369,,0.00
+1,,TLA,370,,0.00
+1,,TLA,382,,0.00
+1,,TLA,393,*F*,0.00
+1,"Appa, the Vigilant",TLE,62,,2.03
+1,Katara's Reversal,TLE,63,,3.66
+1,Fire Nation Turret,TLE,64,,6.53
+1,Swampbenders,TLE,65,,2.21
+1,Sokka's Charge,TLE,66,,2.34
+1,Earthshape,TLE,67,,5.71
+1,Aang and Katara,TLE,69,,3.42
+1,Sokka and Suki,TLE,71,,2.42
+1,Momo's Heist,TLE,72,,1.09
+1,Uncle's Musings,TLE,73,,1.65
+1,"Aang, Airbending Master",TLE,74,,15.18
+1,"The Duke, Rebel Sentry",TLE,76,,0.38
+1,The Blue Spirit,TLE,90,,3.01
+1,Chakra Meditation,TLE,91,,1.65
+1,"Katara, Waterbending Master",TLE,93,,37.57
+1,Nightmares and Daydreams,TLE,94,,1.01
+1,Princess Yue,TLE,95,,0.51
+1,"Tui and La, Moon and Ocean",TLE,96,,2.46
+1,"Avatar Roku, Firebender",TLE,112,,26.38
+1,"Fang, Roku's Companion",TLE,115,,2.26
+1,"Longshot, Rebel Bowman",TLE,120,,2.77
+1,"Moku, Meandering Drummer",TLE,122,,0.24
+1,Overwhelming Victory,TLE,123,,1.01
+1,"Avatar Kyoshi, Earthbender",TLE,130,,14.33
+1,Tale of Katara and Toph,TLE,143,,2.57
+1,"Toph, Earthbending Master",TLE,145,,39.15
+1,"Katara, Seeking Revenge",TLE,148,,0.25
+1,"Zuko, Seeking Honor",TLE,150,,0.25
+1,Lion Vulture,TLE,232,,2.02
+1,Earthbending Student,TLE,249,*F*,100000000.00
