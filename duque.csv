@@ -1,250 +1,293 @@
-inventory,name,set,setnumber,foil
-2,"",(TLA),1,
-2,"",(TLA),10,
-2,"",(TLA),20,
-2,"",(TLA),30,
-2,"",(TLA),40,
-2,"",(TLA),50,
-2,"",(TLA),60,
-2,"",(TLA),70,
-2,"",(TLA),80,
-2,"",(TLA),90,
-2,"",(TLA),100,
-2,"",(TLA),200,
-2,"",(TLA),110,
-2,"",(TLA),120,
-2,"",(TLA),130,
-2,"",(TLA),140,
-2,"",(TLA),150,
-2,"",(TLA),160,
-2,"",(TLA),170,
-2,"",(TLA),180,
-2,"",(TLA),190,
-2,"",(TLA),11,
-2,"",(TLA),21,
-2,"",(TLA),31,
-2,"",(TLA),41,
-2,"",(TLA),51,
-2,"",(TLA),61,
-2,"",(TLA),71,
-2,"",(TLA),81,
-2,"",(TLA),91,
-2,"",(TLA),101,
-2,"",(TLA),111,
-2,"",(TLA),121,
-2,"",(TLA),131,
-2,"",(TLA),141,
-2,"",(TLA),151,
-2,"",(TLA),161,
-2,"",(TLA),171,
-2,"",(TLA),181,
-2,"",(TLA),191,
-2,"",(TLA),201,
-2,"",(TLA),211,
-2,"",(TLA),221,
-2,"",(TLA),231,
-2,"",(TLA),241,
-2,"",(TLA),251,
-2,"",(TLA),12,
-2,"",(TLA),22,
-2,"",(TLA),32,
-2,"",(TLA),42,
-2,"",(TLA),52,
-2,"",(TLA),62,
-2,"",(TLA),72,
-2,"",(TLA),82,
-2,"",(TLA),92,
-2,"",(TLA),102,
-2,"",(TLA),112,
-2,"",(TLA),122,
-2,"",(TLA),132,
-2,"",(TLA),142,
-2,"",(TLA),152,
-2,"",(TLA),162,
-2,"",(TLA),172,
-2,"",(TLA),182,
-2,"",(TLA),192,
-2,"",(TLA),202,
-2,"",(TLA),212,
-2,"",(TLA),222,
-2,"",(TLA),232,
-2,"",(TLA),242,
-2,"",(TLA),252,
-2,"",(TLA),13,
-2,"",(TLA),23,
-2,"",(TLA),33,
-2,"",(TLA),43,
-2,"",(TLA),53,
-2,"",(TLA),63,
-2,"",(TLA),73,
-2,"",(TLA),83,
-2,"",(TLA),93,
-2,"",(TLA),103,
-2,"",(TLA),113,
-2,"",(TLA),123,
-2,"",(TLA),133,
-2,"",(TLA),143,
-2,"",(TLA),153,
-2,"",(TLA),163,
-2,"",(TLA),173,
-2,"",(TLA),183,
-2,"",(TLA),193,
-2,"",(TLA),203,
-2,"",(TLA),213,
-2,"",(TLA),223,
-2,"",(TLA),233,
-2,"",(TLA),243,
-2,"",(TLA),253,
-2,"",(TLA),14,
-1,"",(TLA),24,
-1,"",(TLA),34,
-1,"",(TLA),44,
-1,"",(TLA),54,
-1,"",(TLA),64,
-1,"",(TLA),74,
-1,"",(TLA),84,
-1,"",(TLA),94,
-1,"",(TLA),104,
-1,"",(TLA),114,
-1,"",(TLA),124,
-1,"",(TLA),134,
-1,"",(TLA),144,
-1,"",(TLA),154,
-1,"",(TLA),164,
-1,"",(TLA),174,
-1,"",(TLA),184,
-1,"",(TLA),194,
-1,"",(TLA),204,
-1,"",(TLA),214,
-1,"",(TLA),224,
-1,"",(TLA),234,
-1,"",(TLA),244,
-1,"",(TLA),254,
-1,"",(TLA),15,
-1,"",(TLA),25,
-1,"",(TLA),35,
-1,"",(TLA),45,
-1,"",(TLA),55,
-1,"",(TLA),65,
-1,"",(TLA),75,
-1,"",(TLA),85,
-1,"",(TLA),95,
-1,"",(TLA),105,
-1,"",(TLA),115,
-1,"",(TLA),125,
-1,"",(TLA),135,
-1,"",(TLA),145,
-1,"",(TLA),155,
-1,"",(TLA),165,
-1,"",(TLA),175,
-1,"",(TLA),185,
-1,"",(TLA),195,
-1,"",(TLA),205,
-1,"",(TLA),215,
-1,"",(TLA),225,
-1,"",(TLA),235,
-1,"",(TLA),245,
-1,"",(TLA),255,
-1,"",(TLA),16,
-1,"",(TLA),26,
-1,"",(TLA),36,
-1,"",(TLA),46,
-1,"",(TLA),56,
-1,"",(TLA),66,
-1,"",(TLA),76,
-1,"",(TLA),86,
-1,"",(TLA),96,
-1,"",(TLA),106,
-1,"",(TLA),116,
-1,"",(TLA),126,
-1,"",(TLA),136,
-1,"",(TLA),146,
-1,"",(TLA),156,
-1,"",(TLA),166,
-1,"",(TLA),176,
-1,"",(TLA),186,
-1,"",(TLA),196,
-1,"",(TLA),206,
-1,"",(TLA),216,
-1,"",(TLA),226,
-1,"",(TLA),236,
-1,"",(TLA),246,
-1,"",(TLA),256,
-1,"",(TLA),17,
-1,"",(TLA),27,
-1,"",(TLA),37,
-1,"",(TLA),47,
-1,"",(TLA),57,
-1,"",(TLA),67,
-1,"",(TLA),77,
-1,"",(TLA),87,
-1,"",(TLA),97,
-1,"",(TLA),107,
-1,"",(TLA),117,
-1,"",(TLA),127,
-1,"",(TLA),137,
-1,"",(TLA),147,
-1,"",(TLA),157,
-1,"",(TLA),167,
-1,"",(TLA),177,
-1,"",(TLA),187,
-1,"",(TLA),197,
-1,"",(TLA),207,
-1,"",(TLA),217,
-1,"",(TLA),227,
-1,"",(TLA),237,
-1,"",(TLA),247,
-1,"",(TLA),257,
-1,"",(TLA),18,
-1,"",(TLA),28,
-1,"",(TLA),38,
-1,"",(TLA),48,
-1,"",(TLA),58,
-1,"",(TLA),68,
-1,"",(TLA),78,
-1,"",(TLA),88,
-1,"",(TLA),98,
-1,"",(TLA),108,
-1,"",(TLA),118,
-1,"",(TLA),128,
-1,"",(TLA),138,
-1,"",(TLA),148,
-1,"",(TLA),158,
-1,"",(TLA),168,
-1,"",(TLA),178,
-1,"",(TLA),188,
-1,"",(TLA),198,
-1,"",(TLA),208,
-1,"",(TLA),218,
-1,"",(TLA),228,
-1,"",(TLA),238,
-1,"",(TLA),248,
-1,"",(TLA),258,
-1,"",(TLA),19,
-1,"",(TLA),29,
-1,"",(TLA),39,
-1,"",(TLA),49,
-1,"",(TLA),59,
-1,"",(TLA),69,
-1,"",(TLA),79,
-1,"",(TLA),89,
-1,"",(TLA),99,
-1,"",(TLA),109,
-1,"",(TLA),119,
-1,"",(TLA),129,
-1,"",(TLA),139,
-1,"",(TLA),149,
-1,"",(TLA),159,
-1,"",(TLA),169,
-1,"",(TLA),179,
-1,"",(TLA),189,
-1,"",(TLA),199,
-1,"",(TLA),209,
-1,"",(TLA),219,
-1,"",(TLA),229,
-1,"",(TLA),239,
-1,"",(TLA),249,
-2,"",(TLA),286,
-2,"",(TLA),287,
-2,"",(TLA),288,
-2,"",(fin),288,
+inventory,name,set,foil,setnumber
+1,Master Piandao,tla,Normal,28
+1,Earth Kingdom Jailer,tla,Normal,16
+1,"Aang, Airbending Master",tle,Normal,74
+1,"Aang, Air Nomad",tle,Normal,210
+1,Meteor Sword,tla,Normal,258
+1,"Aang, the Last Airbender",tla,Normal,4
+1,"Appa, Loyal Sky Bison",tla,Foil,9
+3,Accumulate Wisdom,tla,Normal,44
+1,Aang's Iceberg,tla,Normal,336
+1,"Aang, Swift Savior // Aang and La, Ocean's Fury",tla,Normal,347
+1,Airbender's Reversal,tla,Normal,7
+1,Agna Qel'a,tla,Normal,264
+2,Airbending Lesson,tla,Foil,8
+2,Airbender Ascension,tla,Normal,6
+1,"Appa, Steadfast Guardian",tla,Normal,10
+1,Avatar Destiny,tla,Normal,333
+1,Avatar Enthusiasts,tla,Normal,11
+1,"Appa, Loyal Sky Bison",tla,Normal,9
+1,Avatar's Wrath,tla,Normal,12
+2,"Azula, On the Hunt",tla,Normal,85
+1,"Azula, Cunning Usurper",tla,Normal,303
+1,Badgermole,tla,Normal,166
+2,Earth Kingdom Protectors,tla,Normal,17
+1,Compassionate Healer,tla,Normal,13
+1,Compassionate Healer,tla,Normal,13
+1,Compassionate Healer,tla,Foil,13
+1,Energybending,tla,Normal,2
+2,Enter the Avatar State,tla,Normal,18
+1,Earth Kingdom Protectors,tla,Foil,17
+2,Fancy Footwork,tla,Normal,19
+1,Razor Rings,tla,Normal,33
+2,Path to Redemption,tla,Normal,31
+3,Rabaroo Troop,tla,Normal,32
+1,"Momo, Playful Pet",tla,Normal,30
+2,"Suki, Courageous Rescuer",tla,Normal,37
+1,"Momo, Friendly Flier",tla,Normal,29
+1,Sandbenders' Storm,tla,Foil,34
+1,South Pole Voyager,tla,Normal,35
+1,Southern Air Temple,tla,Normal,36
+3,Kyoshi Warriors,tla,Normal,26
+1,Gather the White Lotus,tla,Normal,20
+1,Gather the White Lotus,tla,Normal,20
+1,Trusty Boomerang,tla,Normal,260
+1,The Legend of Yangchen // Avatar Yangchen,tla,Normal,354
+1,Yip Yip!,tla,Normal,43
+2,Zuko's Exile,tla,Normal,3
+1,White Lotus Hideout,tla,Normal,281
+1,Vengeful Villagers,tla,Normal,40
+1,Water Tribe Rallier,tla,Normal,42
+1,Water Tribe Rallier,tla,Foil,42
+3,Glider Kids,tla,Normal,21
+1,Water Tribe Rallier,tla,Normal,42
+2,Glider Staff,tla,Normal,22
+1,Gather the White Lotus,tla,Normal,20
+1,Destined Confrontation,tla,Normal,15
+1,Omashu City,tla,Normal,275
+1,Boomerang Basics,tla,Normal,46
+1,Planetarium of Wan Shi Tong,tla,Normal,259
+1,Fire Nation Palace,tla,Normal,268
+1,Barrels of Blasting Jelly,tla,Normal,254
+1,Fire Nation Warship,tla,Normal,256
+1,North Pole Gates,tla,Normal,274
+1,Secret Tunnel,tla,Normal,278
+1,Rumble Arena,tla,Normal,277
+1,Misty Palms Oasis,tla,Normal,273
+1,Serpent's Pass,tla,Normal,279
+1,Boiling Rock Prison,tla,Normal,267
+2,Geyser Leaper,tla,Normal,52
+1,Realm of Koh,tla,Normal,276
+1,North Pole Patrol,tla,Normal,65
+2,Octopus Form,tla,Normal,66
+1,Ba Sing Se,tla,Normal,266
+2,Flexible Waterbender,tla,Normal,50
+1,Benevolent River Spirit,tla,Normal,45
+1,Crashing Wave,tla,Normal,47
+3,Ember Island Production,tla,Normal,48
+3,Iguana Parrot,tla,Normal,56
+1,Forecasting Fortune Teller,tla,Normal,51
+2,Gran-Gran,tla,Normal,54
+3,Honest Work,tla,Normal,55
+1,Invasion Submersible,tla,Normal,57
+1,"Katara, Bending Prodigy",tla,Normal,59
+2,Knowledge Seeker,tla,Normal,60
+1,Master Pakku,tla,Normal,63
+1,Lost Days,tla,Normal,62
+1,Sokka's Haiku,tla,Normal,71
+2,Otter-Penguin,tla,Normal,67
+2,Rowdy Snowballers,tla,Normal,68
+3,Serpent of the Pass,tla,Normal,70
+1,The Legend of Kuruk // Avatar Kuruk,tla,Normal,355
+1,Spirit Water Revival,tla,Normal,370
+1,"Teo, Spirited Glider",tla,Normal,74
+1,The Spirit Oasis,tla,Normal,72
+1,"The Mechanist, Aerial Artisan",tla,Normal,369
+1,"Ty Lee, Chi Blocker",tla,Normal,76
+1,Tiger-Seal,tla,Normal,318
+1,The Unagi of Kyoshi Island,tla,Normal,319
+1,Canyon Crawler,tla,Normal,90
+1,Waterbender Ascension,tla,Normal,310
+2,Waterbending Lesson,tla,Normal,80
+1,Watery Grasp,tla,Normal,82
+1,Watery Grasp,tla,Foil,82
+1,"Yue, the Moon Spirit",tla,Normal,83
+1,Fatal Fissure,tla,Normal,97
+1,Beetle-Headed Merchants,tla,Normal,86
+1,Cat-Gator,tla,Normal,91
+3,Foggy Swamp Hunters,tla,Normal,101
+1,Obsessive Pursuit,tla,Normal,340
+1,Waterbending Scroll,tla,Normal,81
+2,Buzzard-Wasp Colony,tla,Normal,88
+1,Dai Li Indoctrination,tla,Normal,93
+1,Boiling Rock Rioter,tla,Normal,87
+1,Fire Navy Trebuchet,tla,Normal,100
+2,Heartless Act,tla,Normal,103
+2,"Joo Dee, One of Many",tla,Normal,105
+1,"June, Bounty Hunter",tla,Normal,106
+1,"Koh, the Face Stealer",tla,Normal,107
+2,Callous Inspector,tla,Normal,89
+1,Day of Black Sun,tla,Normal,94
+1,Deadly Precision,tla,Normal,95
+2,Fire Nation Engineer,tla,Normal,99
+1,Foggy Swamp Visions,tla,Normal,339
+1,"Mai, Scornful Striker",tla,Normal,109
+2,"Lo and Li, Twin Tutors",tla,Normal,108
+1,Raven Eagle,tla,Normal,324
+1,Merchant of Many Hats,tla,Normal,110
+2,Northern Air Temple,tla,Normal,111
+1,Ozai's Cruelty,tla,Normal,113
+1,Pirate Peddlers,tla,Normal,115
+2,Ruinous Waterbending,tla,Normal,118
+2,Sold Out,tla,Normal,119
+1,Swampsnare Trap,tla,Normal,120
+1,Wolfbat,tla,Normal,122
+1,The Rise of Sozin // Fire Lord Sozin,tla,Normal,117
+2,The Fire Nation Drill,tla,Normal,321
+1,The Fire Nation Drill,tla,Foil,321
+1,Zuko's Conviction,tla,Normal,123
+1,The Rise of Sozin // Fire Lord Sozin,tla,Normal,356
+2,Tundra Tank,tla,Normal,121
+2,Crescent Island Temple,tla,Normal,129
+2,Boar-q-pine,tla,Normal,124
+1,Cunning Maneuver,tla,Normal,130
+1,Combustion Technique,tla,Normal,128
+2,Bumi Bash,tla,Normal,125
+2,Combustion Man,tla,Normal,127
+1,Fated Firepower,tla,Normal,132
+1,Combustion Technique,tla,Normal,301
+1,Fire Nation Attacks,tla,Normal,133
+2,Fire Nation Attacks,tla,Normal,299
+2,Earthbending Lesson,tla,Normal,176
+1,Fire Nation Cadets,tla,Normal,134
+7,Firebending Student,tla,Normal,139
+1,Firebending Student,tla,Normal,342
+1,Firebending Student,tla,Foil,393
+2,Firebending Lesson,tla,Normal,138
+6,Fire Nation Raider,tla,Normal,135
+1,Firebender Ascension,tla,Normal,312
+1,Earth Rumble,tla,Normal,174
+2,Iroh's Demonstration,tla,Normal,141
+1,How to Start a Riot,tla,Normal,140
+1,Fire Sages,tla,Normal,136
+1,Jet's Brainwashing,tla,Normal,143
+2,Solstice Revelations,tla,Normal,153
+1,Fire Sages,tla,Foil,136
+1,Lightning Strike,tla,Normal,146
+1,Price of Freedom,tla,Normal,149
+2,Mongoose Lizard,tla,Normal,148
+1,Rough Rhino Cavalry,tla,Normal,152
+1,Ran and Shaw,tla,Normal,150
+1,Sozin's Comet,tla,Normal,309
+1,The Legend of Roku // Avatar Roku,tla,Normal,145
+2,Twin Blades,tla,Normal,157
+1,"Zhao, the Moon Slayer",tla,Normal,162
+1,Yuyan Archers,tla,Normal,161
+2,"Zuko, Exiled Prince",tla,Normal,163
+1,Wartime Protestors,tla,Normal,160
+2,War Balloon,tla,Normal,159
+2,"Ty Lee, Artful Acrobat",tla,Normal,158
+1,Tiger-Dillo,tla,Normal,155
+2,Allies at Last,tla,Normal,164
+2,Earth Kingdom General,tla,Normal,173
+2,"Bumi, King of Three Trials",tla,Normal,169
+1,Diligent Zookeeper,tla,Normal,171
+1,Earthbender Ascension,tla,Foil,307
+1,Earthbender Ascension,tla,Normal,307
+1,"Flopsie, Bumi's Buddy",tla,Normal,179
+2,Leaves from the Vine,tla,Normal,185
+1,Sparring Dummy,tla,Normal,197
+1,Invasion Tactics,tla,Normal,183
+1,Great Divide Guide,tla,Normal,345
+2,"Haru, Hidden Talent",tla,Normal,182
+1,Kyoshi Island Plaza,tla,Normal,184
+2,"The Boulder, Ready to Rumble",tla,Normal,168
+1,Saber-Tooth Moose-Lion,tla,Normal,194
+2,Shared Roots,tla,Normal,196
+2,Ostrich-Horse,tla,Normal,188
+1,Rockalanche,tla,Normal,192
+1,Origin of Metalbending,tla,Normal,187
+1,The Legend of Kyoshi // Avatar Kyoshi,tla,Normal,358
+2,Rocky Rebuke,tla,Normal,193
+2,Rebellious Captives,tla,Normal,191
+2,Seismic Sense,tla,Normal,195
+2,"Toph, the Blind Bandit",tla,Normal,198
+2,True Ancestry,tla,Normal,199
+1,Unlucky Cabbage Merchant,tla,Normal,201
+2,Turtle-Duck,tla,Normal,200
+1,Walltop Sentries,tla,Normal,202
+1,Cruel Administrator,tla,Normal,213
+1,"Aang, at the Crossroads // Aang, Destined Savior",tla,Normal,304
+1,Air Nomad Legacy,tla,Normal,206
+1,Beifong's Bounty Hunters,tla,Normal,209
+1,Abandon Attachments,tla,Foil,205
+1,"Avatar Aang // Aang, Master of Elements",tla,Normal,308
+1,"Bumi, Unleashed",tla,Normal,211
+2,Bitter Work,tla,Normal,210
+1,Cat-Owl,tla,Foil,212
+1,Dragonfly Swarm,tla,Normal,215
+1,Dai Li Agents,tla,Normal,306
+1,Dai Li Agents,tla,Normal,214
+1,Earth Village Ruffians,tla,Normal,219
+1,Earth Kingdom Soldier,tla,Normal,216
+1,Earth King's Lieutenant,tla,Normal,217
+2,Earth Rumble Wrestlers,tla,Normal,218
+1,Fire Lord Zuko,tla,Normal,315
+1,Hermitic Herbalist,tla,Normal,226
+1,"Hama, the Bloodbender",tla,Normal,224
+2,"Hei Bai, Spirit of Balance",tla,Normal,225
+1,Fire Lord Azula,tla,Normal,313
+1,Fire Lord Azula,tla,Normal,220
+1,Platypus-Bear,tla,Normal,236
+1,"Katara, Water Tribe's Hope",tla,Normal,351
+2,"Jet, Freedom Fighter",tla,Normal,229
+1,Foggy Swamp Spirit Keeper,tla,Normal,222
+1,"Iroh, Grand Lotus",tla,Normal,227
+1,"Katara, the Fearless",tla,Normal,305
+1,"Iroh, Tea Master",tla,Normal,228
+3,"Long Feng, Grand Secretariat",tla,Normal,233
+1,"Ozai, the Phoenix King",tla,Normal,311
+1,"Professor Zei, Anthropologist",tla,Normal,238
+1,"Sokka, Tenacious Tactician",tla,Normal,352
+1,"Sokka, Bold Boomeranger",tla,Normal,240
+3,Sun Warriors,tla,Normal,244
+1,Sandbender Scavengers,tla,Normal,382
+2,Pretending Poxbearers,tla,Normal,237
+2,"Suki, Kyoshi Warrior",tla,Normal,243
+1,"Toph, the First Metalbender",tla,Normal,247
+1,White Lotus Reinforcements,tla,Normal,251
+1,Uncle Iroh,tla,Normal,248
+1,"Zuko, Conflicted",tla,Normal,302
+2,Vindictive Warden,tla,Normal,249
+1,Tolls of War,tla,Normal,245
+1,"Zhao, Ruthless Admiral",tla,Normal,252
+1,Tolls of War,tla,Foil,245
+1,Fire Lord Azula,tla,Foil,220
+1,"Azula, Ruthless Firebender",tle,Normal,101
+1,"Avatar Roku, Firebender",tle,Normal,112
+1,Baboon Spirit,tle,Normal,89
+1,Aang and Katara,tle,Normal,69
+1,"Appa, the Vigilant",tle,Normal,62
+1,Fire Nation Turret,tle,Normal,64
+1,"Avatar Kyoshi, Earthbender",tle,Normal,130
+1,Earthbending Student,tle,Foil,249
+1,"Fang, Roku's Companion",tle,Normal,115
+1,Fire Nation Occupation,tle,Normal,105
+1,Mai and Zuko,tle,Normal,68
+1,Nightmares and Daydreams,tle,Normal,94
+1,Lost in Memories,tle,Normal,121
+1,"The Duke, Rebel Sentry",tle,Normal,76
+1,"Moku, Meandering Drummer",tle,Normal,122
+1,Momo's Heist,tle,Normal,72
+1,"Katara, Waterbending Master",tle,Normal,93
+1,Katara's Reversal,tle,Normal,63
+1,Lion Vulture,tle,Normal,232
+1,"Zuko, Firebending Master",tle,Normal,127
+1,Sokka and Suki,tle,Normal,71
+1,Swampbenders,tle,Normal,65
+1,Princess Yue,tle,Normal,95
+1,Overwhelming Victory,tle,Normal,123
+1,Sokka's Charge,tle,Normal,66
+1,"Toph, Greatest Earthbender",tle,Normal,70
+1,Tale of Katara and Toph,tle,Normal,143
+1,Earthshape,tle,Normal,67
+1,The Blue Spirit,tle,Normal,90
+1,Uncle's Musings,tle,Normal,73
+1,"Toph, Earthbending Master",tle,Normal,145
+1,"Tui and La, Moon and Ocean",tle,Normal,96
+1,"Katara, Seeking Revenge",tle,Normal,148
+1,Chakra Meditation,tle,Normal,91
+1,"Longshot, Rebel Bowman",tle,Normal,120
+1,"Zuko, Seeking Honor",tle,Normal,150
+1,"Hakoda, Selfless Commander",tla,Normal,23
+1,Earthen Ally,tla,Normal,177
