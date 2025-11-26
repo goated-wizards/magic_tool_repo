@@ -15,6 +15,7 @@ type Card struct {
 	Set       string  // set card you're inventoring
 	Foil      bool    // whether card is foil or not
 	Rarity    string  // will eventually be autofilled from api
+	Image     string  // will eventually be autofilled from api
 }
 
 func (c Card) Price() float64 {
@@ -41,11 +42,12 @@ func (c Card) TotalPrice() float64 {
 }
 
 // sets prices foil and nonfoil on each individual card
-func (c *Card) SetPrice(nonfoil, foil float64, rarity, name string) {
+func (c *Card) SetPrice(nonfoil, foil float64, rarity, name, image string) {
 	c.Trend = float64(nonfoil)
 	c.TrendFoil = float64(foil)
 	c.Rarity = rarity
 	c.Name = name
+	c.Image = image
 
 }
 

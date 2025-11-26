@@ -1,122 +1,228 @@
-inventory,name,set,setnumber,foil,price
-1,Lightning Strike,DFT,136,,0.09
-1,Corrupt Court Official,SNC,70,,0.08
-1,Aang's Journey,TLA,1,,0.09
-1,Zuko's Exile,TLA,3,,0.09
-1,Avatar Enthusiasts,TLA,11,,0.10
-1,Curious Farm Animals,TLA,14,,0.08
-1,Destined Confrontation,TLA,15,,0.17
-1,Fancy Footwork,TLA,19,,0.06
-1,Glider Kids,TLA,21,,0.08
-1,"Hakoda, Selfless Commander",TLA,23,,0.02
-1,Invasion Reinforcements,TLA,24,,0.19
-1,Jeong Jeong's Deserters,TLA,25,,0.07
-1,Kyoshi Warriors,TLA,26,,0.04
-1,Master Piandao,TLA,28,,0.13
-1,Path to Redemption,TLA,31,,0.06
-1,Rabaroo Troop,TLA,32,,0.05
-1,Razor Rings,TLA,33,,0.03
-1,"Suki, Courageous Rescuer",TLA,37,,0.07
-1,Team Avatar,TLA,38,,0.13
-1,Vengeful Villagers,TLA,40,,0.07
-1,Yip Yip!,TLA,43,,0.07
-1,Accumulate Wisdom,TLA,44,,0.41
-2,Boomerang Basics,TLA,46,,0.28
-2,Crashing Wave,TLA,47,,0.16
-1,Ember Island Production,TLA,48,,0.14
-2,First-Time Flyer,TLA,49,,0.05
-2,Flexible Waterbender,TLA,50,,0.04
-1,Geyser Leaper,TLA,52,,0.02
-2,Giant Koi,TLA,53,,0.07
-1,Honest Work,TLA,55,,0.08
-1,Iguana Parrot,TLA,56,,0.03
-1,It'll Quench Ya!,TLA,58,,0.08
-1,"Katara, Bending Prodigy",TLA,59,,0.11
-3,Lost Days,TLA,62,,0.05
-1,Octopus Form,TLA,66,,0.10
-1,Otter-Penguin,TLA,67,,0.06
-1,Rowdy Snowballers,TLA,68,,0.05
-1,Serpent of the Pass,TLA,70,,0.14
-1,Sokka's Haiku,TLA,71,,0.02
-1,Spirit Water Revival,TLA,73,,0.18
-1,"Teo, Spirited Glider",TLA,74,,0.07
-1,Waterbending Lesson,TLA,80,,0.10
-1,Waterbending Scroll,TLA,81,,0.14
-1,Watery Grasp,TLA,82,,0.06
-1,Azula Always Lies,TLA,84,,0.09
-1,Beetle-Headed Merchants,TLA,86,,0.07
-1,Buzzard-Wasp Colony,TLA,88,,0.07
-1,Callous Inspector,TLA,89,,0.08
-1,Deadly Precision,TLA,95,,0.07
-1,Epic Downfall,TLA,96,,0.08
-1,Fire Nation Engineer,TLA,99,,0.08
-1,Foggy Swamp Hunters,TLA,101,,0.06
-1,Heartless Act,TLA,103,,0.14
-1,Hog-Monkey,TLA,104,,0.05
-1,"Joo Dee, One of Many",TLA,105,,0.17
-1,"Lo and Li, Twin Tutors",TLA,108,,0.07
-1,Merchant of Many Hats,TLA,110,,0.08
-1,Ozai's Cruelty,TLA,113,,0.08
-1,Pirate Peddlers,TLA,115,,0.04
-1,Raven Eagle,TLA,116,,0.02
-1,Ruinous Waterbending,TLA,118,,0.10
-1,Sold Out,TLA,119,,0.09
-1,Zuko's Conviction,TLA,123,,0.09
-1,Boar-q-pine,TLA,124,,0.04
-1,Bumi Bash,TLA,125,,0.08
-1,Combustion Man,TLA,127,,0.11
-1,Cunning Maneuver,TLA,130,,0.08
-1,Fire Nation Raider,TLA,135,,0.05
-1,Firebending Lesson,TLA,138,,0.08
-1,Firebending Student,TLA,139,,1.25
-1,How to Start a Riot,TLA,140,,0.06
-1,Jet's Brainwashing,TLA,143,,0.11
-1,"Mai, Jaded Edge",TLA,147,,0.05
-1,Mongoose Lizard,TLA,148,,0.02
-1,Ran and Shaw,TLA,150,,0.03
-1,Rough Rhino Cavalry,TLA,152,,0.06
-1,Solstice Revelations,TLA,153,,0.02
-1,Tiger-Dillo,TLA,155,,0.08
-1,Twin Blades,TLA,157,,0.07
-1,"Ty Lee, Artful Acrobat",TLA,158,,0.11
-1,Yuyan Archers,TLA,161,,0.07
-1,"Zhao, the Moon Slayer",TLA,162,,0.69
-1,Avatar Destiny,TLA,165,,0.05
-1,Badgermole,TLA,166,,0.13
-1,"The Boulder, Ready to Rumble",TLA,168,,0.12
-1,Earth Kingdom General,TLA,173,,0.09
-1,Earthbending Lesson,TLA,176,,0.09
-1,Elemental Teachings,TLA,178,,0.02
-1,Foggy Swamp Vinebender,TLA,180,,0.05
-1,"Haru, Hidden Talent",TLA,182,,0.11
-1,Kyoshi Island Plaza,TLA,184,,0.11
-2,Origin of Metalbending,TLA,187,,0.11
-1,Ostrich-Horse,TLA,188,,0.07
-1,Rebellious Captives,TLA,191,,0.06
-1,Rockalanche,TLA,192,,0.12
-1,Rocky Rebuke,TLA,193,,0.07
-1,Seismic Sense,TLA,195,,0.02
-1,"Toph, the Blind Bandit",TLA,198,,0.11
-1,Turtle-Duck,TLA,200,,0.06
-2,Unlucky Cabbage Merchant,TLA,201,,0.08
-1,"Aang, at the Crossroads // Aang, Destined Savior",TLA,203,,0.38
-1,"Aang, Swift Savior // Aang and La, Ocean's Fury",TLA,204,,2.41
-2,Abandon Attachments,TLA,205,,0.07
-1,Bitter Work,TLA,210,,0.08
-1,Earth Rumble Wrestlers,TLA,218,,0.09
-1,Earth Village Ruffians,TLA,219,,0.05
-1,"Jet, Freedom Fighter",TLA,229,,0.11
-1,"Katara, Water Tribe's Hope",TLA,231,,0.14
-1,"Long Feng, Grand Secretariat",TLA,233,,0.12
-1,Platypus-Bear,TLA,236,,0.06
-1,Pretending Poxbearers,TLA,237,,0.14
-2,"Professor Zei, Anthropologist",TLA,238,,0.07
-1,"Suki, Kyoshi Warrior",TLA,243,,0.14
-1,Sun Warriors,TLA,244,,0.13
-1,Vindictive Warden,TLA,249,,0.08
-1,Wandering Musicians,TLA,250,,0.08
-2,Bender's Waterskin,TLA,255,,0.02
-1,Airship Engine Room,TLA,265,,0.13
-1,Jasmine Dragon Tea Shop,TLA,270,,0.10
-1,Kyoshi Village,TLA,271,,0.07
-1,Omashu City,TLA,275,,0.09
+inventory,name,set,setnumber,foil,image
+1,Aang's Journey,TLA,1,*F*,https://cards.scryfall.io/large/front/5/e/5e51f727-5a9b-4bc7-83a9-dbcf1c933e15.jpg?1764119871
+1,Aang's Journey,TLA,1,,https://cards.scryfall.io/large/front/5/e/5e51f727-5a9b-4bc7-83a9-dbcf1c933e15.jpg?1764119871
+2,Energybending,TLA,2,,https://cards.scryfall.io/large/front/6/c/6c085441-e023-4032-89a0-d24ce5060ac3.jpg?1764119878
+1,Zuko's Exile,TLA,3,*F*,https://cards.scryfall.io/large/front/9/0/9090b055-3406-4fed-a8c6-3f6353a9600e.jpg?1764119886
+1,"Aang, the Last Airbender",TLA,4,,https://cards.scryfall.io/large/front/2/4/245e008c-e073-443f-9592-6f628c0026ec.jpg?1764119893
+1,Aang's Iceberg,TLA,5,,https://cards.scryfall.io/large/front/7/2/720fbd87-b1c1-4b3b-97a1-46b943b115e3.jpg?1764119900
+1,Airbender Ascension,TLA,6,,https://cards.scryfall.io/large/front/9/9/99a90d13-891c-45cc-b1d5-6080ebae5862.jpg?1764119907
+2,Airbending Lesson,TLA,8,,https://cards.scryfall.io/large/front/e/2/e2bcd0a6-e94d-4a21-a334-a57459c1b8cc.jpg?1764119921
+1,"Appa, Loyal Sky Bison",TLA,9,,https://cards.scryfall.io/large/front/a/9/a9b2a843-c6fe-4d19-801e-1538e4381ab0.jpg?1764119928
+1,Avatar Enthusiasts,TLA,11,*F*,https://cards.scryfall.io/large/front/7/2/7292e5f2-d5a1-4e39-8f75-eba471819f04.jpg?1764119942
+2,Avatar Enthusiasts,TLA,11,,https://cards.scryfall.io/large/front/7/2/7292e5f2-d5a1-4e39-8f75-eba471819f04.jpg?1764119942
+2,Compassionate Healer,TLA,13,,https://cards.scryfall.io/large/front/8/8/88d5f8fd-d4de-4e64-9b74-e53719ffbcdc.jpg?1764119957
+1,Curious Farm Animals,TLA,14,,https://cards.scryfall.io/large/front/2/4/2402d759-84b6-41d2-ad78-9333974e9222.jpg?1764119964
+1,Destined Confrontation,TLA,15,,https://cards.scryfall.io/large/front/d/4/d4605cf7-03bc-4a7f-b50a-49b83b09b54d.jpg?1764119971
+1,Earth Kingdom Protectors,TLA,17,,
+1,Enter the Avatar State,TLA,18,,https://cards.scryfall.io/large/front/a/8/a8f3d2cb-d073-4df8-8769-49612628a377.jpg?1764119993
+1,Fancy Footwork,TLA,19,,https://cards.scryfall.io/large/front/9/c/9c59f8c5-4063-4e5a-b684-fde175c4a981.jpg?1764120000
+1,Gather the White Lotus,TLA,20,,https://cards.scryfall.io/large/front/9/6/96e2b3d0-f060-4f3c-9d12-a0444b202008.jpg?1764120007
+1,Glider Kids,TLA,21,,https://cards.scryfall.io/large/front/0/6/0613afb5-4cee-4132-8adf-404767ed8d07.jpg?1764120015
+1,Glider Staff,TLA,22,,
+1,,TLA,23,,
+1,Invasion Reinforcements,TLA,24,,https://cards.scryfall.io/large/front/b/8/b8845bba-d116-43cd-8ae0-e553f3324d66.jpg?1764120037
+1,Jeong Jeong's Deserters,TLA,25,,https://cards.scryfall.io/large/front/0/6/060966f9-5e56-4512-9ef3-2b216daf093c.jpg?1764120044
+2,Kyoshi Warriors,TLA,26,,https://cards.scryfall.io/large/front/2/1/211045e1-85c7-4088-b830-a2afa0fe520b.jpg?1764120052
+1,,TLA,27,,
+1,Master Piandao,TLA,28,,https://cards.scryfall.io/large/front/3/e/3e4a042c-f2a6-45e7-9444-acd1ca838b87.jpg?1764120075
+1,"Momo, Playful Pet",TLA,30,,https://cards.scryfall.io/large/front/9/3/9350bf4a-fa12-4867-b31f-1f1394d99571.jpg?1764120089
+2,Path to Redemption,TLA,31,,https://cards.scryfall.io/large/front/f/9/f936d64a-0db4-49c1-8a57-6d99e012a555.jpg?1764120097
+2,Rabaroo Troop,TLA,32,,https://cards.scryfall.io/large/front/6/2/62a983b4-ac73-4949-9317-05a75a8ce164.jpg?1764120104
+1,Razor Rings,TLA,33,,https://cards.scryfall.io/large/front/b/0/b05cfee5-ee59-4df6-a5f6-d9ef0fa7f98a.jpg?1764120111
+4,Sandbenders' Storm,TLA,34,,https://cards.scryfall.io/large/front/b/3/b3bf4a25-4329-4318-870a-2b06aa620dc4.jpg?1764120118
+1,"Suki, Courageous Rescuer",TLA,37,,https://cards.scryfall.io/large/front/3/3/33b97433-e16c-422e-a0ca-f6b1e98d8681.jpg?1764120140
+1,Team Avatar,TLA,38,,https://cards.scryfall.io/large/front/a/9/a9a5f6f7-f04d-477f-b67f-fd01a5dcc0f5.jpg?1764120147
+1,Vengeful Villagers,TLA,40,,https://cards.scryfall.io/large/front/8/c/8cabb6ed-5c80-4dab-b96c-9d4d9fe72db7.jpg?1764120161
+1,Water Tribe Captain,TLA,41,*F*,https://cards.scryfall.io/large/front/0/a/0a0cdf97-1927-47c6-8ef1-29969e3567ee.jpg?1764120168
+1,Water Tribe Captain,TLA,41,,https://cards.scryfall.io/large/front/0/a/0a0cdf97-1927-47c6-8ef1-29969e3567ee.jpg?1764120168
+1,Water Tribe Rallier,TLA,42,*F*,https://cards.scryfall.io/large/front/4/e/4e744b6c-1c2f-451a-818a-5ee7785b5213.jpg?1764120175
+1,Yip Yip!,TLA,43,,https://cards.scryfall.io/large/front/4/3/43f4b10e-165b-4100-82f3-728e1b0c78ed.jpg?1764120182
+1,Accumulate Wisdom,TLA,44,,
+1,Benevolent River Spirit,TLA,45,,https://cards.scryfall.io/large/front/7/f/7ffb79cd-d170-4047-89c8-6e85188f30da.jpg?1764120194
+1,Boomerang Basics,TLA,46,*F*,https://cards.scryfall.io/large/front/1/7/17ab958a-abc6-472e-ad6a-97c731d89c74.jpg?1764120201
+1,Crashing Wave,TLA,47,,https://cards.scryfall.io/large/front/9/f/9fd02eb4-1ef5-4a14-89a8-b25e720e8016.jpg?1764120208
+1,Ember Island Production,TLA,48,,https://cards.scryfall.io/large/front/0/f/0f79a7fc-36b1-4397-8e67-6638379d3a38.jpg?1764120215
+1,First-Time Flyer,TLA,49,,https://cards.scryfall.io/large/front/e/a/ea22d29d-3a62-4ae2-91d5-21a678be9b48.jpg?1764120222
+2,Flexible Waterbender,TLA,50,,https://cards.scryfall.io/large/front/1/4/1447ebce-7e48-4b21-a39c-740920538bdd.jpg?1764120230
+2,Forecasting Fortune Teller,TLA,51,,https://cards.scryfall.io/large/front/0/2/023e7ad4-6af0-4f29-a716-27a313974227.jpg?1764120239
+1,Geyser Leaper,TLA,52,,https://cards.scryfall.io/large/front/4/d/4d25428d-e5a5-43c4-8544-43120ed1c4d5.jpg?1764120249
+1,Giant Koi,TLA,53,,https://cards.scryfall.io/large/front/3/9/3938ec1f-979c-48e5-bb13-bebace006a8f.jpg?1764120259
+1,Gran-Gran,TLA,54,,
+1,Honest Work,TLA,55,,
+2,Iguana Parrot,TLA,56,*F*,https://cards.scryfall.io/large/front/7/f/7faa3e3d-c08a-4908-85ef-1370d3f90815.jpg?1764120289
+2,Iguana Parrot,TLA,56,,https://cards.scryfall.io/large/front/7/f/7faa3e3d-c08a-4908-85ef-1370d3f90815.jpg?1764120289
+1,Invasion Submersible,TLA,57,,https://cards.scryfall.io/large/front/a/f/af5299f5-1633-4c07-ade5-fd47e29ea4aa.jpg?1764120298
+1,It'll Quench Ya!,TLA,58,,https://cards.scryfall.io/large/front/4/7/47c25e41-f43c-4447-81b5-b9631448bd29.jpg?1764120308
+1,Knowledge Seeker,TLA,60,,
+1,Lost Days,TLA,62,,https://cards.scryfall.io/large/front/d/b/db8e88e3-0931-403f-90e7-3c22c0b61dac.jpg?1764120357
+1,Master Pakku,TLA,63,,https://cards.scryfall.io/large/front/9/1/91e30df5-63f7-4281-8d64-8d522d663652.jpg?1764120366
+2,Octopus Form,TLA,66,,https://cards.scryfall.io/large/front/c/e/ce96a826-53a0-4029-bf34-46779d133b13.jpg?1764120396
+2,Otter-Penguin,TLA,67,,https://cards.scryfall.io/large/front/4/8/480b6279-bb34-4b3f-a639-868b52af92b9.jpg?1764120406
+1,Rowdy Snowballers,TLA,68,,https://cards.scryfall.io/large/front/1/7/17d71522-b133-4003-b787-0c742a2fd70e.jpg?1764120416
+1,Serpent of the Pass,TLA,70,,https://cards.scryfall.io/large/front/8/7/87595843-15bc-48bb-8a81-3e6ad924ed44.jpg?1764120436
+1,The Spirit Oasis,TLA,72,,https://cards.scryfall.io/large/front/3/a/3a1b1329-531c-47ed-9802-c505501f8fd9.jpg?1764120455
+3,"Teo, Spirited Glider",TLA,74,,https://cards.scryfall.io/large/front/6/6/66906ed4-baac-4be0-9359-34f453d1a04a.jpg?1764120477
+1,The Unagi of Kyoshi Island,TLA,77,,https://cards.scryfall.io/large/front/0/e/0ecd8b38-9ee5-41a5-9b93-21c33fc1a6ff.jpg?1764120514
+1,"Wan Shi Tong, Librarian",TLA,78,,https://cards.scryfall.io/large/front/e/2/e20da6b5-1057-4a28-9e85-07de714e262f.jpg?1764120524
+1,Waterbending Lesson,TLA,80,*F*,https://cards.scryfall.io/large/front/4/f/4f81e3b5-a0a9-4764-8c2d-b499ce1740b4.jpg?1764120543
+2,Waterbending Lesson,TLA,80,,https://cards.scryfall.io/large/front/4/f/4f81e3b5-a0a9-4764-8c2d-b499ce1740b4.jpg?1764120543
+1,Waterbending Scroll,TLA,81,,https://cards.scryfall.io/large/front/5/0/50d0be73-a2c8-44a0-9178-9949f342f6f9.jpg?1764120553
+2,Watery Grasp,TLA,82,,https://cards.scryfall.io/large/front/2/6/26bcff57-428e-4f30-a153-a778fbfc437d.jpg?1764120563
+1,"Yue, the Moon Spirit",TLA,83,,https://cards.scryfall.io/large/front/e/c/ecdac50f-c639-43fc-a03e-d488fac96ae2.jpg?1764120573
+1,Azula Always Lies,TLA,84,,https://cards.scryfall.io/large/front/4/1/416b9207-a2af-44d1-9b87-4943f6e46d42.jpg?1764120582
+1,"Azula, On the Hunt",TLA,85,,
+1,Beetle-Headed Merchants,TLA,86,,https://cards.scryfall.io/large/front/c/2/c2eed79f-38c1-4aac-9525-d54cb114f17f.jpg?1764120595
+1,Buzzard-Wasp Colony,TLA,88,,https://cards.scryfall.io/large/front/4/2/42d83229-0555-4361-8964-4b525c825843.jpg?1764120607
+3,Callous Inspector,TLA,89,,https://cards.scryfall.io/large/front/f/2/f22610e9-6b14-4914-bb67-bd6723bec9aa.jpg?1764120614
+2,Canyon Crawler,TLA,90,,https://cards.scryfall.io/large/front/3/0/30a30bfb-f0f3-425b-b37d-20079ee27046.jpg?1764120621
+1,Corrupt Court Official,TLA,92,,https://cards.scryfall.io/large/front/4/6/4692610e-d64c-438e-b5ad-0cf67fd57f1f.jpg?1764120636
+2,Dai Li Indoctrination,TLA,93,,https://cards.scryfall.io/large/front/e/c/eca652b8-44f1-4bd9-b4bf-036eeead13aa.jpg?1764120643
+1,Deadly Precision,TLA,95,,https://cards.scryfall.io/large/front/4/6/4661daf6-d960-4278-8946-70948efaf99d.jpg?1764120656
+1,Epic Downfall,TLA,96,,https://cards.scryfall.io/large/front/3/b/3b4a6804-04f5-4467-bb1c-9466a47bc55f.jpg?1764120663
+1,Fatal Fissure,TLA,97,,https://cards.scryfall.io/large/front/3/3/3343933d-4425-4ede-8d92-876bd0c6df60.jpg?1764120669
+1,The Fire Nation Drill,TLA,98,,https://cards.scryfall.io/large/front/5/4/54d762f6-e131-480f-b294-10f5a63d9c98.jpg?1764120677
+1,Fire Nation Engineer,TLA,99,,https://cards.scryfall.io/large/front/5/d/5daba108-277d-46c8-ac35-7610f4786813.jpg?1764120684
+2,Fire Navy Trebuchet,TLA,100,*F*,https://cards.scryfall.io/large/front/e/5/e58372cc-9a89-47a4-a0db-df5435e26cd3.jpg?1764120692
+1,Fire Navy Trebuchet,TLA,100,,https://cards.scryfall.io/large/front/e/5/e58372cc-9a89-47a4-a0db-df5435e26cd3.jpg?1764120692
+2,Foggy Swamp Hunters,TLA,101,,https://cards.scryfall.io/large/front/3/f/3f6e5869-ca25-4b98-a844-8a498cb40aab.jpg?1764120698
+1,Heartless Act,TLA,103,,https://cards.scryfall.io/large/front/b/5/b57c57a8-d72b-4c6c-a2db-a7ef61190f42.jpg?1764120715
+1,Hog-Monkey,TLA,104,,https://cards.scryfall.io/large/front/4/f/4f442970-5355-4abf-8684-17daaa8e469b.jpg?1764120722
+1,"Joo Dee, One of Many",TLA,105,*F*,https://cards.scryfall.io/large/front/7/a/7ae1439f-a0c4-42c2-a4f3-8851defa981e.jpg?1764120729
+1,"Joo Dee, One of Many",TLA,105,,https://cards.scryfall.io/large/front/7/a/7ae1439f-a0c4-42c2-a4f3-8851defa981e.jpg?1764120729
+1,"June, Bounty Hunter",TLA,106,,https://cards.scryfall.io/large/front/1/4/148bbaab-bc7b-46ab-8e18-ade69d71d847.jpg?1764120735
+1,"Lo and Li, Twin Tutors",TLA,108,,https://cards.scryfall.io/large/front/c/b/cba9260d-ef07-4429-99f9-6004cc1fea0f.jpg?1764120747
+2,Merchant of Many Hats,TLA,110,,https://cards.scryfall.io/large/front/7/5/752ffa24-93b6-4b33-bf10-7222357ac472.jpg?1764120760
+1,Northern Air Temple,TLA,111,,
+1,Ozai's Cruelty,TLA,113,,https://cards.scryfall.io/large/front/2/2/22cad680-d46a-4589-a633-b6ee9a78d61e.jpg?1764120778
+1,The Rise of Sozin // Fire Lord Sozin,TLA,117,,
+1,Ruinous Waterbending,TLA,118,,https://cards.scryfall.io/large/front/5/3/53161747-c82b-41e8-90ea-7791ea262a85.jpg?1764120817
+1,Sold Out,TLA,119,*F*,https://cards.scryfall.io/large/front/1/a/1affba6d-2cca-4cdf-8690-1e23ffbe8462.jpg?1764120823
+2,Sold Out,TLA,119,,https://cards.scryfall.io/large/front/1/a/1affba6d-2cca-4cdf-8690-1e23ffbe8462.jpg?1764120823
+2,Swampsnare Trap,TLA,120,,https://cards.scryfall.io/large/front/6/3/6348b6bf-08a7-45f0-8b2d-2827ab89f21c.jpg?1764120830
+1,Tundra Tank,TLA,121,,
+2,Boar-q-pine,TLA,124,,https://cards.scryfall.io/large/front/0/8/087a445c-5f63-45d6-83e8-20d22650db20.jpg?1764120855
+1,Bumi Bash,TLA,125,*F*,https://cards.scryfall.io/large/front/e/8/e8895479-26cb-4ee8-98ca-6d46c43f0dbd.jpg?1764120862
+1,Bumi Bash,TLA,125,,https://cards.scryfall.io/large/front/e/8/e8895479-26cb-4ee8-98ca-6d46c43f0dbd.jpg?1764120862
+1,Combustion Man,TLA,127,,https://cards.scryfall.io/large/front/8/6/86f7399d-6876-4e85-ba34-ff1f97dc144a.jpg?1764120875
+1,Combustion Technique,TLA,128,,https://cards.scryfall.io/large/front/f/d/fdcca576-2ef2-44cc-9944-a92bd146444a.jpg?1764120881
+1,Crescent Island Temple,TLA,129,,
+2,Cunning Maneuver,TLA,130,,https://cards.scryfall.io/large/front/0/f/0ff7c993-ba29-43b0-9639-7c4bc0292fa2.jpg?1764120894
+1,Deserter's Disciple,TLA,131,,https://errors.scryfall.com/soon.jpg
+2,Fire Nation Attacks,TLA,133,,https://cards.scryfall.io/large/front/9/c/9cc10845-8989-46ca-a57a-fd728fca0729.jpg?1758285149
+2,Fire Nation Cadets,TLA,134,,https://cards.scryfall.io/large/front/1/a/1a3a862c-9c9a-41cd-94d1-2d0cff22a6cd.jpg?1761853102
+2,Fire Nation Raider,TLA,135,,https://cards.scryfall.io/large/front/e/d/ede1bbdb-c726-46e3-aaf1-b8cf2be2c341.jpg?1762259209
+1,Fire Sages,TLA,136,,https://cards.scryfall.io/large/front/7/1/71a9fa44-306f-417a-a9d9-991aff95025c.jpg?1755203784
+1,Firebending Lesson,TLA,138,,https://cards.scryfall.io/large/front/f/a/fa940e68-010e-4b68-be8a-555d7068f7b4.jpg?1762561958
+1,Firebending Student,TLA,139,,
+2,How to Start a Riot,TLA,140,,https://cards.scryfall.io/large/front/2/3/23b3bf1e-ea85-47f5-8473-4d16615f68d7.jpg?1755204618
+1,Iroh's Demonstration,TLA,141,,
+1,"Jeong Jeong, the Deserter",TLA,142,,https://cards.scryfall.io/large/front/a/9/a9f63d3b-bee5-48bc-8b04-d8b24b0bda6e.jpg?1762171186
+1,Jet's Brainwashing,TLA,143,,https://cards.scryfall.io/large/front/b/1/b17e8bdb-4b91-4a9d-bfe1-8a55f0bd040b.jpg?1761922750
+1,The Last Agni Kai,TLA,144,,https://cards.scryfall.io/large/front/6/1/61eaebc6-7575-48ed-b212-ff8b0c7ae694.jpg?1761664050
+1,"Mai, Jaded Edge",TLA,147,,https://cards.scryfall.io/large/front/7/3/732e6bc9-0798-4c00-aea0-5ef4298b45f5.jpg?1761935813
+1,Mongoose Lizard,TLA,148,,https://cards.scryfall.io/large/front/7/d/7d40b9cb-82ef-44c5-8d3c-c8bb4ce9891c.jpg?1755207917
+1,Price of Freedom,TLA,149,*F*,https://cards.scryfall.io/large/front/9/f/9fbe94e9-a71d-4a31-9210-c599abe08e3f.jpg?1761922930
+1,Rough Rhino Cavalry,TLA,152,,https://cards.scryfall.io/large/front/a/8/a8bc29cf-f6f8-4bb8-b722-f016b58b6d2d.jpg?1755238072
+1,Solstice Revelations,TLA,153,,https://cards.scryfall.io/large/front/f/2/f22ac19f-66fb-4d54-9f09-495a20a29577.jpg?1761664425
+1,Tiger-Dillo,TLA,155,,https://cards.scryfall.io/large/front/0/6/067bd117-04e6-410e-89c4-6d431d627751.jpg?1762171214
+1,Treetop Freedom Fighters,TLA,156,,https://cards.scryfall.io/large/front/a/9/a9394200-7ffc-440f-8b5f-c08b7930133c.jpg?1761922891
+1,Twin Blades,TLA,157,*F*,https://cards.scryfall.io/large/front/d/c/dc399ae0-36b5-4c92-9fe2-138caf8d7a86.jpg?1762185066
+2,"Ty Lee, Artful Acrobat",TLA,158,,https://cards.scryfall.io/large/front/d/c/dcd9df24-272b-4aa1-b05f-6ee6b3d3dfe7.jpg?1761737780
+1,War Balloon,TLA,159,,
+1,Wartime Protestors,TLA,160,,https://cards.scryfall.io/large/front/b/a/bac81940-d717-49ff-83b2-16a22bb2c988.jpg?1762551570
+1,Yuyan Archers,TLA,161,*F*,https://cards.scryfall.io/large/front/9/9/99244462-a996-4a5b-91fb-947045647d6d.jpg?1755210784
+1,Yuyan Archers,TLA,161,,https://cards.scryfall.io/large/front/9/9/99244462-a996-4a5b-91fb-947045647d6d.jpg?1755210784
+1,"Zhao, the Moon Slayer",TLA,162,,https://cards.scryfall.io/large/front/f/1/f1015bf5-de98-41f3-b6b1-ed95f7465944.jpg?1762643822
+1,"Zuko, Exiled Prince",TLA,163,,
+1,Allies at Last,TLA,164,,
+1,Badgermole,TLA,166,*F*,https://cards.scryfall.io/large/front/a/a/aabbd420-b7fc-496f-9168-bad823d51d9e.jpg?1755177653
+1,"The Boulder, Ready to Rumble",TLA,168,,https://cards.scryfall.io/large/front/e/c/ec27a466-5457-44c6-a842-1de7d3788d66.jpg?1762259357
+1,"Bumi, King of Three Trials",TLA,169,,
+1,Cycle of Renewal,TLA,170,,https://cards.scryfall.io/large/front/2/3/233f4a05-057b-48f4-8f56-8d4a060a40e4.jpg?1761665283
+1,Earth Kingdom General,TLA,173,,https://cards.scryfall.io/large/front/8/6/8688fce5-74b1-41e1-a59a-05a3878a75cb.jpg?1762259365
+1,Earth Rumble,TLA,174,*F*,https://cards.scryfall.io/large/front/6/2/62730505-56f1-4043-a8b9-4fb7bc508b47.jpg?1755178455
+1,Earthbender Ascension,TLA,175,,https://cards.scryfall.io/large/front/5/9/590a58ab-5e98-4031-8aa6-ce396dc1429f.jpg?1762259403
+1,Earthbending Lesson,TLA,176,,https://cards.scryfall.io/large/front/e/c/eccd63b3-3a3a-4661-9d6e-fb8152429bdb.jpg?1755040271
+1,Earthen Ally,TLA,177,,https://cards.scryfall.io/large/front/d/7/d7a0f2d9-efa4-4a53-a24b-36694457bd1c.jpg?1762352947
+1,Foggy Swamp Vinebender,TLA,180,,https://cards.scryfall.io/large/front/7/8/78a75317-94f7-47a4-b4da-5a027fa73248.jpg?1762428756
+2,"Haru, Hidden Talent",TLA,182,,https://cards.scryfall.io/large/front/9/6/9657a0c0-2c26-4331-8e62-f032265a01af.jpg?1755204333
+1,Leaves from the Vine,TLA,185,,
+2,Origin of Metalbending,TLA,187,,https://cards.scryfall.io/large/front/2/5/25749f9a-260d-4bdc-bd28-429c12faa4a5.jpg?1761853549
+1,Ostrich-Horse,TLA,188,,https://cards.scryfall.io/large/front/5/c/5ca3fd45-9301-44ef-afc0-4d7999d66d36.jpg?1755207942
+1,Pillar Launch,TLA,189,,https://cards.scryfall.io/large/front/f/1/f177e9cc-0c41-417d-9215-5ff23a1a0657.jpg?1755209240
+2,Raucous Audience,TLA,190,,https://cards.scryfall.io/large/front/c/c/ccd03ec3-0fae-48b2-9f04-9c57d2f94267.jpg?1755209471
+2,Rebellious Captives,TLA,191,,https://cards.scryfall.io/large/front/e/6/e64a4a8b-323c-4c8b-92af-1a3295799e65.jpg?1755238017
+1,Rockalanche,TLA,192,,https://cards.scryfall.io/large/front/5/2/52b213d3-6f68-43e6-91e9-435d8fe1f34c.jpg?1762343778
+2,Rocky Rebuke,TLA,193,,https://cards.scryfall.io/large/front/5/2/52fd910f-6d42-41f5-a4be-f375aa254ea2.jpg?1755209619
+2,Saber-Tooth Moose-Lion,TLA,194,,https://cards.scryfall.io/large/front/b/1/b15f302d-c451-4e79-a5af-75ee3ba4cadf.jpg?1755209852
+1,Seismic Sense,TLA,195,*F*,https://cards.scryfall.io/large/front/a/7/a7b93c2a-c478-4734-8aca-03f3e9c11b20.jpg?1761665549
+1,Seismic Sense,TLA,195,,https://cards.scryfall.io/large/front/a/7/a7b93c2a-c478-4734-8aca-03f3e9c11b20.jpg?1761665549
+1,Shared Roots,TLA,196,,
+1,"Toph, the Blind Bandit",TLA,198,,https://cards.scryfall.io/large/front/f/f/ff68fa7b-8065-407b-a8b4-bfbb14f1c99c.jpg?1755210285
+1,True Ancestry,TLA,199,,
+1,Turtle-Duck,TLA,200,*F*,https://cards.scryfall.io/large/front/a/e/aefcd734-3916-4c77-9d98-3ea2c2795658.jpg?1755210521
+2,Turtle-Duck,TLA,200,,https://cards.scryfall.io/large/front/a/e/aefcd734-3916-4c77-9d98-3ea2c2795658.jpg?1755210521
+1,Unlucky Cabbage Merchant,TLA,201,,https://cards.scryfall.io/large/front/0/a/0a838009-b115-4497-b35d-682e41ead7db.jpg?1762786467
+1,Walltop Sentries,TLA,202,,https://cards.scryfall.io/large/front/e/5/e55f1c63-58f6-4e2b-aaeb-f2d5faca47a2.jpg?1764122900
+1,,TLA,203,,
+1,"Aang, Swift Savior // Aang and La, Ocean's Fury",TLA,204,,
+2,Abandon Attachments,TLA,205,,https://cards.scryfall.io/large/front/7/4/74ca45a4-97ab-4255-9129-884e8b42b984.jpg?1755176484
+1,Air Nomad Legacy,TLA,206,,https://cards.scryfall.io/large/front/1/0/10874416-fa4c-4aa3-b885-4351d011d208.jpg?1762428793
+1,"Azula, Cunning Usurper",TLA,208,,https://cards.scryfall.io/large/front/d/a/daf30e1c-436d-4f23-b1d2-570619a4b7f5.jpg?1761665986
+1,Bitter Work,TLA,210,,https://cards.scryfall.io/large/front/3/e/3e8de6a9-9859-4ed2-8ece-ef80a7209be9.jpg?1762201080
+1,Cat-Owl,TLA,212,,https://cards.scryfall.io/large/front/d/7/d7df3391-dbe5-4eb4-85c1-037c5f3ea971.jpg?1764121512
+1,Cruel Administrator,TLA,213,,https://cards.scryfall.io/large/front/9/d/9d70707b-2e25-40b1-80a8-9a5492bca7e2.jpg?1764121522
+1,Dragonfly Swarm,TLA,215,,https://cards.scryfall.io/large/front/1/6/16be5cc4-b15a-4c5e-8a6e-05c87b519127.jpg?1764121542
+1,Earth Kingdom Soldier,TLA,216,,https://cards.scryfall.io/large/front/2/d/2d543d35-945a-4ffa-beb7-7c5d4f894f79.jpg?1764121553
+1,Earth King's Lieutenant,TLA,217,,https://cards.scryfall.io/large/front/4/5/4533d155-5c56-41a5-9d76-2d1414ac47c9.jpg?1764121563
+1,Earth Rumble Wrestlers,TLA,218,,https://cards.scryfall.io/large/front/7/4/74fca0b8-12e1-405f-b999-160d65fe0ade.jpg?1764121573
+1,Guru Pathik,TLA,223,,https://cards.scryfall.io/large/front/2/2/224a2241-0dce-4008-8d9c-86db40ec5f8b.jpg?1764121623
+1,"Hei Bai, Spirit of Balance",TLA,225,,
+1,,TLA,227,,
+2,"Jet, Freedom Fighter",TLA,229,,https://cards.scryfall.io/large/front/9/2/9202c044-15e4-4218-a94d-16287ba19d69.jpg?1764121683
+1,"Long Feng, Grand Secretariat",TLA,233,,https://cards.scryfall.io/large/front/a/3/a3eb92fe-bc59-4472-9028-f368bd015609.jpg?1764121724
+1,Messenger Hawk,TLA,234,,https://cards.scryfall.io/large/front/6/a/6a2946c0-0a40-4cdb-92c8-af2bafecca09.jpg?1764121735
+2,Platypus-Bear,TLA,236,,https://cards.scryfall.io/large/front/7/e/7ebf742a-3995-4b22-9dc7-b05f57889683.jpg?1764121750
+1,Pretending Poxbearers,TLA,237,*F*,https://cards.scryfall.io/large/front/d/1/d1af91a5-8681-4a05-910d-96f7a819bfaa.jpg?1764121756
+1,Pretending Poxbearers,TLA,237,,https://cards.scryfall.io/large/front/d/1/d1af91a5-8681-4a05-910d-96f7a819bfaa.jpg?1764121756
+1,Sandbender Scavengers,TLA,239,,https://cards.scryfall.io/large/front/9/b/9bfe0f7c-6dac-41d4-a013-109445158a5e.jpg?1764121769
+1,"Sokka, Lateral Strategist",TLA,241,,https://cards.scryfall.io/large/front/1/3/1326c5db-4615-495f-8e30-376243d91352.jpg?1764121782
+2,"Suki, Kyoshi Warrior",TLA,243,,https://cards.scryfall.io/large/front/3/e/3e311480-04f8-4b8f-938e-1cc6d06b9902.jpg?1764121794
+1,Sun Warriors,TLA,244,,https://cards.scryfall.io/large/front/e/4/e477d750-42d2-48c8-bc1f-8148d15d5f53.jpg?1764121800
+1,,TLA,246,,
+1,Vindictive Warden,TLA,249,,https://cards.scryfall.io/large/front/0/f/0f34de05-39a9-425f-a3b4-3a9d46c917ac.jpg?1764121838
+1,Wandering Musicians,TLA,250,,https://cards.scryfall.io/large/front/3/d/3da81dbd-dc80-47ff-a33b-270d23a24e0a.jpg?1764121845
+1,,TLA,253,,
+1,Barrels of Blasting Jelly,TLA,254,,https://cards.scryfall.io/large/front/4/f/4fd83083-3779-41f0-90a0-a00e3270e4e6.jpg?1764121877
+1,Bender's Waterskin,TLA,255,,https://cards.scryfall.io/large/front/6/d/6d4a1712-d19e-4475-9614-a0b1af4da610.jpg?1764121885
+1,Fire Nation Warship,TLA,256,*F*,https://cards.scryfall.io/large/front/4/1/41ecc1de-353e-4131-b735-d2ce18c9c2d5.jpg?1764121892
+1,Kyoshi Battle Fan,TLA,257,,https://cards.scryfall.io/large/front/2/5/257e6862-96fe-4312-aff2-509d0696843a.jpg?1764121899
+1,Meteor Sword,TLA,258,,https://cards.scryfall.io/large/front/6/8/68b1c746-a4b8-4a45-9f0e-3962f0ae40e3.jpg?1764121906
+1,Planetarium of Wan Shi Tong,TLA,259,*F*,https://cards.scryfall.io/large/front/0/e/0ebaf0bf-7aa2-469d-bdbb-0fbf6741eede.jpg?1764121913
+1,Trusty Boomerang,TLA,260,,https://cards.scryfall.io/large/front/d/f/df99a166-6d58-4d92-9037-2fdfbaf65629.jpg?1764121919
+1,Boiling Rock Prison,TLA,267,,https://cards.scryfall.io/large/front/1/c/1c2e2220-54d1-4180-93a0-964e3b0ba8b8.jpg?1764121961
+1,Foggy Bottom Swamp,TLA,269,,https://cards.scryfall.io/large/front/2/2/226af626-873d-4bd2-b889-000f8316786f.jpg?1764121972
+1,Meditation Pools,TLA,272,,https://cards.scryfall.io/large/front/c/c/cc078fc6-4470-473f-9e24-d2c470e09141.jpg?1764121991
+1,Misty Palms Oasis,TLA,273,,https://cards.scryfall.io/large/front/7/c/7cc29ddb-8f44-4493-985d-2fac35f9f34d.jpg?1764121997
+1,North Pole Gates,TLA,274,,https://cards.scryfall.io/large/front/b/c/bcf7b9da-d35d-4338-b4d9-83e47dc058ee.jpg?1764122003
+2,Omashu City,TLA,275,,https://cards.scryfall.io/large/front/c/2/c21e413b-96ed-4ded-b567-f1647074ce5f.jpg?1764122009
+1,Realm of Koh,TLA,276,,https://cards.scryfall.io/large/front/0/6/061ac694-610c-479f-b038-a4ef5270d5d7.jpg?1764122015
+1,Rumble Arena,TLA,277,,https://cards.scryfall.io/large/front/3/f/3f5d2c38-663c-4f64-8cfc-c102462e82ef.jpg?1764122021
+1,Plains,TLA,282,*F*,https://cards.scryfall.io/large/front/4/0/4069fb4a-8ee1-41ef-ab93-39a8cc58e0e5.jpg?1764122051
+1,Island,TLA,283,*F*,https://cards.scryfall.io/large/front/a/2/a2e22347-f0cb-4cfd-88a3-4f46a16e4946.jpg?1764122056
+1,Swamp,TLA,284,*F*,https://cards.scryfall.io/large/front/f/0/f0b234d8-d6bb-48ec-8a4d-d8a570a69c62.jpg?1764122062
+1,Mountain,TLA,285,*F*,https://cards.scryfall.io/large/front/c/4/c44f81ca-f72f-445c-8901-3a894a2a47f9.jpg?1764122068
+1,Forest,TLA,286,*F*,https://cards.scryfall.io/large/front/a/3/a305e44f-4253-4754-b83f-1e34103d77b0.jpg?1764122074
+1,,TLA,287,*F*,
+1,,TLA,288,*F*,
+1,,TLA,289,,
+1,,TLA,290,*F*,
+1,,TLA,291,*F*,
+1,,TLA,292,,
+1,,TLA,295,*F*,
+1,,TLA,299,,
+1,,TLA,314,,
+1,Tiger-Seal,TLA,318,,https://cards.scryfall.io/large/front/d/4/d47fd63e-ddf0-4d98-8883-9ac883c20691.jpg?1764122301
+1,The Fire Nation Drill,TLA,321,,
+1,Foggy Swamp Visions,TLA,339,,https://cards.scryfall.io/large/front/f/8/f8f56648-85be-417a-814b-c356df390ba0.jpg?1764122438
+1,Obsessive Pursuit,TLA,340,,https://cards.scryfall.io/large/front/2/f/2ff0a75c-b679-436f-8150-faaec3ea1df6.jpg?1764122448

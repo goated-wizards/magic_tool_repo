@@ -10,7 +10,7 @@ import (
 	"magic/types"
 )
 
-func WriteCSV(path string, cards []types.Card, withPrice bool) {
+func WriteCSV(path string, cards []types.Card, withPrice, withImage bool) {
 	file, err := os.Create(path)
 	if err != nil {
 		log.Fatalf("failed to create file: %v", err)
@@ -22,20 +22,18 @@ func WriteCSV(path string, cards []types.Card, withPrice bool) {
 	defer writer.Flush()
 
 	// Data to write
-	var records [][]string
+	records := [][]string{
+		{
+			"inventory", "name", "set", "setnumber", "foil",
+		},
+	}
 	if withPrice {
 
-		records = [][]string{
-			{
-				"inventory", "name", "set", "setnumber", "foil", "price",
-			},
-		}
-	} else {
-		records = [][]string{
-			{
-				"inventory", "name", "set", "setnumber", "foil",
-			},
-		}
+		records[0] = append(records[0], "price")
+	}
+	if withImage {
+
+		records[0] = append(records[0], "image")
 	}
 	sort.Slice(cards, func(i, j int) bool {
 		if cards[i].Set != cards[j].Set {
@@ -46,14 +44,10 @@ func WriteCSV(path string, cards []types.Card, withPrice bool) {
 		}
 		return cards[i].Foil
 	})
-	for _, card := range cards {
+	for idx, card := range cards {
 		var foilString string
-		var price float64
 		if card.Foil {
 			foilString = "*F*"
-			price = card.TrendFoil
-		} else {
-			price = card.Trend
 		}
 		newEntry := []string{
 			fmt.Sprintf("%v", card.Inventory),
@@ -63,7 +57,10 @@ func WriteCSV(path string, cards []types.Card, withPrice bool) {
 			foilString,
 		}
 		if withPrice {
-			newEntry = append(newEntry, fmt.Sprintf("%.2f", price))
+			newEntry = append(newEntry, fmt.Sprintf("%.2f", cards[idx].Price()))
+		}
+		if withImage {
+			newEntry = append(newEntry, cards[idx].Image)
 		}
 		records = append(records, newEntry)
 	}

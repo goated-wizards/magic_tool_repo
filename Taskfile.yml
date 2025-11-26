@@ -6,6 +6,13 @@ vars:
   GREETING: Hello, World!
 
 tasks:
+  clean:
+    desc: cleans outputs
+    cmds:
+      - rm -rf output/player1/*
+      - rm -rf output/player2/*
+      - rm -rf output/player1grid/*
+    silent: true
   run:
     desc: runs the application
     cmds:

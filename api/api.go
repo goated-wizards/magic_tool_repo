@@ -53,6 +53,7 @@ func GetCardData(col types.QueriableCollection) *map[string]map[uint64]types.Pri
 				Rarity:      each.Rarity,
 				Name:        each.Name,
 				Set:         strings.ToUpper(each.Set),
+				Image:       each.Image.Large,
 			}
 
 		}
@@ -104,4 +105,7 @@ type data struct {
 		Eur     string `json:"eur"`
 		EurFoil string `json:"eur_foil"`
 	} `json:"prices"`
+	Image struct {
+		Large string `json:"large"`
+	} `json:"image_uris"`
 }

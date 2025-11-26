@@ -4,6 +4,8 @@ import (
 	"fmt"
 	"math"
 	"strings"
+
+	"magic/image"
 )
 
 // calculates total amount of moneys from a player in his card inventory
@@ -37,7 +39,8 @@ func (p *Player) UpdateCards(prices map[string]map[uint64]Price) {
 		foil := float64(prices[set][uint64(value.Number)].FoilPrice)
 		rarity := prices[set][uint64(value.Number)].Rarity
 		name := prices[set][uint64(value.Number)].Name
-		value.SetPrice(nonfoil, foil, rarity, name)
+		image := prices[set][uint64(value.Number)].Image
+		value.SetPrice(nonfoil, foil, rarity, name, image)
 		p.Cards[idx] = value
 	}
 }
@@ -120,4 +123,15 @@ func (p Player) String() string {
 	}
 
 	return strings.Join(total, "")
+}
+
+func (p Player) ExportCardList(outputdir string) {
+	for _, card := range p.Cards {
+		extension, err := image.GetExtension(card.Image)
+		if err != nil {
+			fmt.Println(err)
+		}
+		totalFilePath := fmt.Sprintf("%v/%v-%v%v", outputdir, card.Set, card.Number, extension)
+		image.DownloadImage(card.Image, totalFilePath)
+	}
 }

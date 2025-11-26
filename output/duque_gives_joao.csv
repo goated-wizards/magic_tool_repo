@@ -1,40 +1,23 @@
-inventory,name,set,setnumber,foil,price
-1,Fancy Footwork,TLA,19,,0.06
-1,Path to Redemption,TLA,31,,0.06
-1,Rabaroo Troop,TLA,32,,0.05
-1,"Suki, Courageous Rescuer",TLA,37,,0.07
-1,Accumulate Wisdom,TLA,44,,0.41
-1,Ember Island Production,TLA,48,,0.14
-1,Geyser Leaper,TLA,52,,0.02
-1,Honest Work,TLA,55,,0.08
-1,Rowdy Snowballers,TLA,68,,0.05
-1,Serpent of the Pass,TLA,70,,0.14
-1,Waterbending Lesson,TLA,80,,0.10
-1,Callous Inspector,TLA,89,,0.08
-1,Fire Nation Engineer,TLA,99,,0.08
-1,Foggy Swamp Hunters,TLA,101,,0.06
-1,Heartless Act,TLA,103,,0.14
-1,"Joo Dee, One of Many",TLA,105,,0.17
-1,"Lo and Li, Twin Tutors",TLA,108,,0.07
-1,Ruinous Waterbending,TLA,118,,0.10
-1,Sold Out,TLA,119,,0.09
-1,Boar-q-pine,TLA,124,,0.04
-1,Bumi Bash,TLA,125,,0.08
-1,Combustion Man,TLA,127,,0.11
-1,Fire Nation Raider,TLA,135,,0.05
-1,Firebending Student,TLA,139,,1.25
-1,Solstice Revelations,TLA,153,,0.02
-1,Twin Blades,TLA,157,,0.07
-1,"Ty Lee, Artful Acrobat",TLA,158,,0.11
-1,Earth Kingdom General,TLA,173,,0.09
-1,Earthbending Lesson,TLA,176,,0.09
-1,Ostrich-Horse,TLA,188,,0.07
-1,Rocky Rebuke,TLA,193,,0.07
-1,Seismic Sense,TLA,195,,0.02
-1,"Toph, the Blind Bandit",TLA,198,,0.11
-1,Bitter Work,TLA,210,,0.08
-1,Earth Rumble Wrestlers,TLA,218,,0.09
-1,"Jet, Freedom Fighter",TLA,229,,0.11
-1,"Long Feng, Grand Secretariat",TLA,233,,0.12
-1,"Suki, Kyoshi Warrior",TLA,243,,0.14
-1,Sun Warriors,TLA,244,,0.13
+inventory,name,set,setnumber,foil,price,image
+1,Earth Kingdom Protectors,TLA,17,,0.17,
+1,Glider Staff,TLA,22,,0.13,
+1,Accumulate Wisdom,TLA,44,,0.41,
+1,Gran-Gran,TLA,54,,0.13,
+1,Honest Work,TLA,55,,0.08,
+1,Knowledge Seeker,TLA,60,,0.09,
+1,"Azula, On the Hunt",TLA,85,,0.11,
+1,Northern Air Temple,TLA,111,,0.02,
+1,Tundra Tank,TLA,121,,0.08,
+1,Crescent Island Temple,TLA,129,,0.02,
+1,Firebending Student,TLA,139,,1.25,
+1,Iroh's Demonstration,TLA,141,,0.14,
+1,War Balloon,TLA,159,,0.06,
+1,"Zuko, Exiled Prince",TLA,163,,0.10,
+1,Allies at Last,TLA,164,,0.13,
+1,"Bumi, King of Three Trials",TLA,169,,0.09,
+1,Leaves from the Vine,TLA,185,,0.14,
+1,Shared Roots,TLA,196,,0.76,
+1,True Ancestry,TLA,199,,0.06,
+1,"Hei Bai, Spirit of Balance",TLA,225,,0.05,
+1,,TLA,299,,0.00,
+1,The Fire Nation Drill,TLA,321,,0.50,

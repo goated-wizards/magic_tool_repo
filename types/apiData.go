@@ -6,6 +6,7 @@ type Price struct {
 	Rarity      string
 	Name        string
 	Set         string
+	Image       string
 }
 
 func MergePriceMaps(a, b *map[string]map[uint64]Price) map[string]map[uint64]Price {
